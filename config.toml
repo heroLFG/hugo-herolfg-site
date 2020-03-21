@@ -61,10 +61,6 @@ disqusShortname = "herolfg"
 
 # Menu links
 [[menu.main]]
-    name = "Posts"
-    weight = 1
-    url = "posts/"
-[[menu.main]]
     name = "Contact"
     weight = 2
     url  = "contact/"
