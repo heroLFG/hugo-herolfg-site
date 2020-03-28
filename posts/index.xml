@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HeroLFG</title>
-    <link>https://herolfg.com/</link>
-    <description>Recent content on HeroLFG</description>
+    <title>Posts on HeroLFG</title>
+    <link>https://herolfg.com/posts/</link>
+    <description>Recent content in Posts on HeroLFG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 28 Mar 2020 09:18:08 -0500</lastBuildDate>
     
-	<atom:link href="https://herolfg.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://herolfg.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <description>When telework is done with the right tools and processes, it is far more efficient and effective than working on site.
 Whether you are new to remote work or you have been doing it for years, I am confident that there is something we can do to reduce costs and increase the effectiveness of your organization through telework.
 I have accumulated about 6 years of telework experience since graduating from Auburn University in 2008.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://herolfg.com/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://herolfg.com/contact/</guid>
-      <description>Connect with me on LinkedIn
-Or email gavin @ herolfg.com</description>
     </item>
     
   </channel>

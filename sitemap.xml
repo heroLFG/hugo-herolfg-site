@@ -3,19 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://herolfg.com/</loc>
+    <lastmod>2020-03-28T09:18:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://herolfg.com/posts/</loc>
+    <lastmod>2020-03-28T09:18:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://herolfg.com/tags/remote/</loc>
+    <lastmod>2020-03-28T09:18:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://herolfg.com/tags/</loc>
+    <lastmod>2020-03-28T09:18:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://herolfg.com/tags/telework/</loc>
+    <lastmod>2020-03-28T09:18:08-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://herolfg.com/posts/telework-experience/</loc>
+    <lastmod>2020-03-28T09:18:08-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://herolfg.com/categories/</loc>
   </url>
   
   <url>
     <loc>https://herolfg.com/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://herolfg.com/</loc>
-  </url>
-  
-  <url>
-    <loc>https://herolfg.com/tags/</loc>
   </url>
   
 </urlset>
