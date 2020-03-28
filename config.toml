@@ -15,8 +15,8 @@ disqusShortname = "herolfg"
 [params]
     owner = "Gavin Palmer"
     author = "HeroLFG LLC"
-    info = "Professional Software Services"
-    description = "HeroLFG and Gavin Palmer Landing Page"
+    info = "Telework Software Services"
+    description = "Teaching and learning the best ways to work remotely."
     keywords = "blog,developer,personal"
     avatarurl = "images/profile_pic.jpg"
 
@@ -60,6 +60,10 @@ disqusShortname = "herolfg"
     url = "https://www.hackerrank.com/gavinpalmer1984"
 
 # Menu links
+[[menu.main]]
+    name = "Posts"
+    weight = 1
+    url = "posts/"
 [[menu.main]]
     name = "Contact"
     weight = 2

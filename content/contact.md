@@ -3,4 +3,6 @@ title = "Contact"
 slug = "contact"
 +++
 
-Send me a message on LinkedIn
+Connect with me on [LinkedIn](https://www.linkedin.com/in/herolfg/)
+
+Or email gavin @ herolfg.com
