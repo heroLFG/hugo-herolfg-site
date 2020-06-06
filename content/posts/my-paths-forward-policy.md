@@ -2,7 +2,7 @@
 draft = false
 date = 2020-06-06T07:18:08-05:00
 title = "My Paths Forward Policy"
-description = "Everyone needs to shre their paths forward policy."
+description = "Everyone needs to share their paths forward policy."
 slug = "my-paths-forward-policy" 
 tags = ['process','communication','protocol']
 categories = []
