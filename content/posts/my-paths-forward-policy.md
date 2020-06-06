@@ -19,3 +19,13 @@ I am not a popular person and do not require a policy for scale at this time.  I
 resources:
 
 [Paths Forward by Elliot Temple](http://fallibleideas.com/paths-forward)
+
+notes:
+
+> If one takes the time to respond to everything, there is a dizzying overload of information - so much so that it's virtually impossible to catalogue, respond, and make any sense out of a conversation (paralysis by analysis - why direct democracy was nixed early on in most scaled civilizations).
+
+I will deal with this problem when I face it.  But the idea that makes sense to me is to respond by creating new publicly available content and sharing a link to that content.  This allows me to share links to questions which have been answered before.
+
+I do think that a crowd sourcing policy is necessary to handle many conversations at scale.  I also think a policy which favors other people who have their own paths forward policy can help as well.
+
+I see that almost nobody has a policy for allowing volunteers to help correct errors that are happening.  It is irrational to not even try and allow other people to help correct my errors.  I have tried to volunteer my problem solving ability with many people and organizations which ultimately ignore me.  I suspect that encouraging people to have a policy for allowing people like me to help them will potentially transform the entire world over time.  But it will take time.  Become the change you wish to see.
