@@ -6,10 +6,20 @@
     <description>Recent content on HeroLFG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2020 09:18:08 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2020 07:18:08 -0500</lastBuildDate>
     
 	<atom:link href="https://herolfg.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Paths Forward Policy</title>
+      <link>https://herolfg.com/posts/my-paths-forward-policy/</link>
+      <pubDate>Sat, 06 Jun 2020 07:18:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/posts/my-paths-forward-policy/</guid>
+      <description>I am willing to spend over 1 hour per day on average having public conversations with people on the internet. You can join my discord server, connect with me on linkedin, or connect with me on facebook. I plan on building a better discussion plugin for this site instead of disqus and recommending against using disqus for now.
+If you ask me a publicly visible question, I will eventually respond. I will usually respond within 48 hours.</description>
+    </item>
     
     <item>
       <title>Human Resource Problem</title>
