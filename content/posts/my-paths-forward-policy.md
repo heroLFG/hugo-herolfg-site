@@ -12,6 +12,8 @@ series = []
 
 The [Paths Forward policy idea was developed by Elliot Temple](http://fallibleideas.com/paths-forward).
 
+You can see the history of updates for this post by using [github version control](https://github.com/heroLFG/hugo-herolfg-site/commits/dev/content/posts/a-world-without-hunger.md).
+
 ### My Policy
 
 I am willing to spend over 1 hour per day on average having public conversations with people on the internet.  You can join my [discord server](https://discord.gg/5XhBA8K), connect with me on [linkedin](https://www.linkedin.com/in/herolfg/), or connect with me on [facebook](https://www.facebook.com/herolfgdotcom).  I plan on building a better discussion plugin for this site instead of disqus and recommend against using disqus for now.
@@ -22,7 +24,9 @@ I am not a popular person and do not require a policy for scale at this time.  I
 
 ### My Responses to Criticism:
 
-> If one takes the time to respond to everything, there is a dizzying overload of information - so much so that it's virtually impossible to catalogue, respond, and make any sense out of a conversation (paralysis by analysis - why direct democracy was nixed early on in most scaled civilizations). - Ryan Stewart
+#### Feedback from RS
+
+> If one takes the time to respond to everything, there is a dizzying overload of information - so much so that it's virtually impossible to catalogue, respond, and make any sense out of a conversation (paralysis by analysis - why direct democracy was nixed early on in most scaled civilizations). - RS on 06/05/2020
 
 I will deal with this problem when I face it.  But the idea that makes sense to me is to respond by creating new publicly available content and sharing a link to that content.  This allows me to share links to questions which have been answered before.
 
