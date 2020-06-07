@@ -10,6 +10,8 @@ externalLink = ""
 series = []
 +++
 
+The first person I have known to take autonomous agriculture technology seriously is Douglas Mallette, founder of [Cybernated Farm Systems](https://www.cyberfarmsystems.com/).
+
 We can technically feed the world with autonomous agriculture technology which eventually requires no human labor.
 
 It has been said that you can give a man a fish and feed him for a day.  It has been said that you can teach a man to fish and feed him the rest of his life.  I say that you can create an autonomous, self sufficient, self replicating, decentralized, distributed, integrated, and interoperable fish farming system to feed all men forever.  The previous statement is meant to be true and funny.
