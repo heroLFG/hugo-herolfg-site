@@ -10,7 +10,7 @@ externalLink = ""
 series = []
 +++
 
-Humans have the potential to solve many big problems which are not currently being solved. For example, we could eventually be living in a world where malnutrition and starvation is avoidable. The main reason we live in a world where humans suffer from malnutrition is because humans have not figured out how to work together effectively. I have broadly called this general problem of humans not working together effectively "HRP".
+Humans have the potential to solve many big problems which are not currently being solved. For example, [we could eventually be living in a world where malnutrition and starvation is avoidable](https://herolfg.com/posts/a-world-without-hunger/). The main reason we live in a world where humans suffer from malnutrition is because humans have not figured out how to work together effectively. I have broadly called this general problem of humans not working together effectively "HRP".
 
 Technology can help us solve all of our big problems which are solvable. Technology is empowering. Solving a big problem requires some amount of qualified people working together effectively. But technology can reduce the number of qualified people needed to solve a big problem. And if technology were powerful enough it could eventually solve big problems automatically without need of humans.
 
