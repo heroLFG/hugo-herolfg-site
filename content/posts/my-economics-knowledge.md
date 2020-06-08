@@ -28,7 +28,11 @@ And so the Economic Calculation Problem is relevant.  But it is a problem which 
 
 ### Costs and Generations of an Autonomous System
 
-An autonomous system could make use of finite raw materials combined with renewable energy to produce and deliver goods.  The cost of the system would be paid up front as an investment which would eventually result in a system that is able to produce and deliver goods with minimal need for human maintenance labor.  This would be a minimum viable product and could help provide basic goods.  The system would have a maximum capacity and it could be produced and deployed at scale.  It would depend on a supply chain and human labor in the first generation in order to replace broken parts.
+An autonomous system could make use of finite raw materials combined with renewable energy to produce and deliver goods.  The cost of the system would be paid up front as an investment which would eventually result in a system that is able to produce and deliver goods with minimal need for human maintenance labor.  This would be a minimum viable product and could help provide basic goods.  The system would have a maximum capacity and it could be produced and deployed at scale.
+
+A second generation of the autonomous system would need to be capable of facilitating self repair in addition to production and delivery.  The system would be capable of recycling its parts in order to do repairs and upgrades.  Until the second generation is complete, people will be responsible for maintaining and repairing the system's parts.
+
+A third generation of the system would need be capable of self replication.  The system would need to be capable of producing raw materials for its operation and maintenance or it would need to harvest raw materials in order to replicate and grow.  Once the third generation is deployed, people will no longer be reqiured to do manual labor as part of the supply chain.
 
 ### Business Plan
 
