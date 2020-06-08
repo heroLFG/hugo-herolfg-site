@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2020-06-07T16:18:08-05:00
+date = 2020-06-08T06:18:08-05:00
 title = "My Economics Knowledge"
 description = "Economics isn't difficult to understand."
 slug = "my-economics-knowledge" 
@@ -14,7 +14,23 @@ When I write about [a world without hunger](/posts/a-world-without-hunger) peopl
 
 ### The Basics
 
-There is a supply of goods and services.  There is demand for those goods and services.  The prices of goods and services are related to supply and demand.  If a good or service is scarce the price will be higher than when that same good or service is abundant assuming all other variables like demand are the same.
+There is a supply of goods and services.  There is demand for those goods and services.  The prices of goods and services are related to supply and demand.  If a good or service is scarce the price can be higher than when that same good or service is abundant assuming all other variables like demand are the same.  The price will cover costs and prices above costs allow for profit.
+
+### Value and Externalities
+
+There is a difference between what is profitable and what is valuable.  An example of valuable yet less profitable work is the work that goes into raising humans into responsible adults.  There are many kinds of work which are extremely valuable but are not necessarily profitable.  Profit seekers will often take advantage of their ability to ignore various external costs which they need not pay.  These strategically ignorable costs are referred to as an externality.  An externality can be a cost or a benefit.  Valuable kinds of work have beneficial externalities that are difficult if not impossible to realize as profits.  One way to consider the value of work is to account for all of the externalities and their associated risks and benefits as they relate to people's health throughout space and time.
+
+### Moral Hazards
+
+There is an incentive for people who want wealth to focus on less valuable opportunities which will earn the most profit while ignoring other less profitable yet more valuable kinds of work.  The kind of work which is not as profitable is less attractive to the people who seek profit. The people who obtain wealth through profit are then able to gain more influence. They also have a strategic advantage when they are willing to create external costs.  The opportunity to attract and incentivise behaviors which are not healthy and valuable can be considered a moral hazard. Positions of power which are available to people who do not deserve that power attract the kinds of people who do not deserve that power and are a moral hazard. Profit seeking is one of many means by which people may gain power without deserving their power and influence.
+
+### Land
+
+A region of land has a carrying capacity which depends on the technology and processes used to cultivate that land.  Nature adds an element of chaos which makes the predictability of the carrying capacity dependent on the technology and processes used to account for nature.  Different regions of land have different potentials for cultivation.  People use force to protect and prevent land from being added to the supply of land which might be cultivated in the most optimal way.  There are gatekeepers who are preventing land from being cultivated and utilized. Ideas for colonization are interesting if they allow people to avoid having their freedoms restricted by the existing gatekeepers.
+
+### Theft
+
+The usual definition of theft depends on a person having acquired a thing which someone else has stolen either directly or indirectly.  This definition does not consider the economic truth that some people are born with access to more things than other people.  This definition does not consider that a person's opportunity in the world is heavily shaped by which vagina they emerged from.  The gatekeepers and the markets are part of a system which breeds inequality of opportunity.  This can not be called theft in the traditional sense of the word.  But the result of this inequality of opportunity is the same as theft in that people are born into a world without access to the things which would give them a fair starting line in the race of life.  Creating a system which gaurantees every person access to basic goods and services is a noble goal which attempts to provide equal opportunity to all for the benefit of all.
 
 ### The Economic Calculation Problem
 
@@ -26,20 +42,6 @@ I foresee that information networking and storage technology can be used to prov
 
 And so the Economic Calculation Problem is relevant.  But it is a problem which can be solved eventually if we tried to do so.
 
-### Costs and Generations of an Autonomous System
-
-An autonomous system could make use of finite raw materials combined with renewable energy to produce and deliver goods.  The cost of the system would be paid up front as an investment which would eventually result in a system that is able to produce and deliver goods with minimal need for human maintenance labor.  This would be a minimum viable product and could help provide basic goods.  The system would have a maximum capacity and it could be produced and deployed at scale.
-
-A second generation of the autonomous system would need to be capable of facilitating self repair in addition to production and delivery.  The system would be capable of recycling its parts in order to do repairs and upgrades.  Until the second generation is complete, people will be responsible for maintaining and repairing the system's parts.
-
-A third generation of the system would need be capable of self replication.  The system would need to be capable of producing raw materials for its operation and maintenance or it would need to harvest raw materials in order to replicate and grow.  Once the third generation is deployed, people will no longer be reqiured to do manual labor as part of the supply chain.
-
-### Business Plan
-
-Being able to solve the [Human Resource Problem](/posts/human-resource-problem) or create [a world without hunger](/posts/a-world-without-hunger) through technical innovation will depend on a large collection of new technologies which can add value in many different markets.  All of these innovations will come in stages over time.  A good business plan and the support of investors could allow the right people to succeed in a few different vertical markets while progressing toward ambitious goals.
-
 ### Conclusion
 
-I suspect that our current economic system will continue to discover technologies which can be used to end world hunger eventually.  But many of our big problems can be solved sooner if we keep a bigger and better picture in our mind that gives us a sense of purpose and direction.  This requires that dreamers try to share their vision of a better future so that engineers are inspired to build the valuable technologies which can make that future a real possibility.
-
-We don't want to be overly idealistic.  We want to be realistic and pragmatic.  I really don't see how this endeavor can fail.  The worst case scenario for good people who get involved is that we learn and and acquire valuable knowledge and technology even if we miss the mark in the end.
+Our current economic system has already discovered many technologies which could end world hunger if people decided to do so.  But hunger and malnutrition still exist and people are the root cause.  As our systems become more automated there will be an opportunity to bypass the human caused problems which result in people suffering from hunger and malnutrition.
