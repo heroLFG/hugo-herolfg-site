@@ -6,10 +6,20 @@
     <description>Recent content in Posts on HeroLFG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Jun 2020 06:23:08 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2020 06:18:08 -0500</lastBuildDate>
     
 	<atom:link href="https://herolfg.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My Economics Knowledge</title>
+      <link>https://herolfg.com/posts/my-economics-knowledge/</link>
+      <pubDate>Mon, 08 Jun 2020 06:18:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/posts/my-economics-knowledge/</guid>
+      <description>When I write about a world without hunger people wonder what I know about economics.
+The Basics There is a supply of goods and services. There is demand for those goods and services. The prices of goods and services are related to supply and demand. If a good or service is scarce the price can be higher than when that same good or service is abundant assuming all other variables like demand are the same.</description>
+    </item>
     
     <item>
       <title>A World Without Hunger</title>
