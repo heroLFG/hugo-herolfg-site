@@ -6,10 +6,19 @@
     <description>Recent content in Tags on HeroLFG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jun 2020 06:18:08 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2020 09:18:08 -0500</lastBuildDate>
     
 	<atom:link href="https://herolfg.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>process</title>
+      <link>https://herolfg.com/tags/process/</link>
+      <pubDate>Tue, 09 Jun 2020 09:18:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/tags/process/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>philosophy</title>
@@ -17,15 +26,6 @@
       <pubDate>Tue, 09 Jun 2020 06:18:08 -0500</pubDate>
       
       <guid>https://herolfg.com/tags/philosophy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>process</title>
-      <link>https://herolfg.com/tags/process/</link>
-      <pubDate>Tue, 09 Jun 2020 06:18:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/tags/process/</guid>
       <description></description>
     </item>
     
