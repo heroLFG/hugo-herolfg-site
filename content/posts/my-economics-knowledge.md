@@ -10,7 +10,7 @@ externalLink = ""
 series = []
 +++
 
-When I write about [a world without hunger](/posts/a-world-without-hunger) people wonder what I know about economics.
+When I write about [a world without hunger](/posts/a-world-without-hunger) curi (Elliot Temple) wonders [what I know about economics](http://curi.us/2321-project-planning-discussion#16636).
 
 ### The Basics
 
