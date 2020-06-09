@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2020-06-09T06:18:08-05:00
+date = 2020-06-09T09:18:08-05:00
 title = "Disagreement"
 description = "A disagreement is an opportunity to learn."
 slug = "disagreement" 
