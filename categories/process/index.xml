@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>meritocracy on HeroLFG</title>
-    <link>https://herolfg.com/tags/meritocracy/</link>
-    <description>Recent content in meritocracy on HeroLFG</description>
+    <title>process on HeroLFG</title>
+    <link>https://herolfg.com/categories/process/</link>
+    <description>Recent content in process on HeroLFG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Aug 2020 06:23:08 -0500</lastBuildDate>
     
-	<atom:link href="https://herolfg.com/tags/meritocracy/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://herolfg.com/categories/process/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       <guid>https://herolfg.com/posts/how-to-encounter-disagreement/</guid>
       <description>I am writing this with Eric Weinstein in mind. But this general approach to learning and cooperating with a large community can be implemented by anyone who has a sufficiently large following. I am excited to see people trying to figure out how to improve the sense making organ for a large community of people.
 You have realized that you need to put forth some effort having conversations with new people who have new ideas.</description>
-    </item>
-    
-    <item>
-      <title>Ending the War on Drugs</title>
-      <link>https://herolfg.com/posts/ending-the-war-on-drugs/</link>
-      <pubDate>Thu, 27 Aug 2020 06:23:08 -0500</pubDate>
-      
-      <guid>https://herolfg.com/posts/ending-the-war-on-drugs/</guid>
-      <description>Why was the War on Drugs started? If I steelman the arguments for the idea of controlling substances, I would imagine a different time without the internet when people had access to less information. I am young enough to remember researching cannabis and psilocybin on the internet before I experimented with those substances. There was a time when it was much harder to do your research in order to understand a substance.</description>
     </item>
     
   </channel>

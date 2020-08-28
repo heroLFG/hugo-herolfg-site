@@ -6,7 +6,7 @@
     <description>Recent content in Categories on HeroLFG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2020 06:23:08 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2020 06:23:08 -0500</lastBuildDate>
     
 	<atom:link href="https://herolfg.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>blog</title>
       <link>https://herolfg.com/categories/blog/</link>
-      <pubDate>Thu, 27 Aug 2020 06:23:08 -0500</pubDate>
+      <pubDate>Fri, 28 Aug 2020 06:23:08 -0500</pubDate>
       
       <guid>https://herolfg.com/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>process</title>
+      <link>https://herolfg.com/categories/process/</link>
+      <pubDate>Fri, 28 Aug 2020 06:23:08 -0500</pubDate>
+      
+      <guid>https://herolfg.com/categories/process/</guid>
       <description></description>
     </item>
     
