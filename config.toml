@@ -11,6 +11,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 disqusShortname = "herolfg"
+googleAnalytics = "G-GRTHQS03V5"
 
 [params]
     owner = "Gavin Palmer"
