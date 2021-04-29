@@ -4,7 +4,7 @@ date = 2020-11-01T05:23:08-05:00
 title = "Love and Sense Making"
 description = "A properly functioning sense making organ properly prioritizes information."
 slug = "love-and-sense-making" 
-tags = ['love','sensemaking','education','politics','religion']
+tags = ['love','sensemaking','education','politics','religion','attention']
 categories = []
 externalLink = ""
 series = []
@@ -47,7 +47,7 @@ One of the reasons for this unhealthy state of our collective sense making organ
 
 Find people who claim to be trying to make a difference in the world and then try to connect with them and offer your skills and services.  You will learn that people are presenting themselves as one thing outwardly to the world but when you test their behavior you discover that they really aren't the thing they claim to be outwardly.
 
-While I was working at Redstone Arsenal I reached out to the 4 star general there and received no response.  When I reached out to the CIA to offer my skills as a professional software engineer I was ignored.  When I reached out to the [IAS](https://www.ias.edu/) and offered my skills as a professional software engineer I was ignored.  When New Jersey's unemployment system, written in COBOL, was recently unable to handle the surge in unemployment I tried to reach out and offer my professional software engineering services but found no mechanism to connect with the people who needed help.  When I was interested in helping to build open source election software and reached out to the OSET foundation they unexpectedly stopped responding to me.  I have reached out ot many other people and organizations who claim to be doing one thing but ultimately ignored me or failed to provide potential volunteers with a mechanism to connect.  All of those people who publicly claim to be interested in doing something but have no path forward for volunteers to help are making big mistakes.  People should be seeking out help from those who are willing and able to volunteer their skills and services.
+While I was working at Redstone Arsenal I reached out to the 4 star general there and received no response.  When I reached out to the CIA to offer my skills as a professional software engineer I was ignored.  When I reached out to the [IAS](https://www.ias.edu/) and offered my skills as a professional software engineer I was ignored.  When New Jersey's unemployment system, written in COBOL, was recently unable to handle the surge in unemployment I tried to reach out and offer my professional software engineering services but found no mechanism to connect with the people who needed help.  When I was interested in helping to build open source election software and reached out to the OSET foundation they unexpectedly stopped responding to me.  I have reached out to many other people and organizations who claim to be doing one thing but ultimately ignored me or failed to provide potential volunteers with a mechanism to connect.  All of those people who publicly claim to be interested in doing something but have no path forward for volunteers to help are making big mistakes.  People should be seeking out help from those who are willing and able to volunteer their skills and services.
 
 ### References
 - [post history](https://github.com/heroLFG/hugo-herolfg-site/commits/dev/content/posts/love-and-sense-making.md)

@@ -1,5 +1,5 @@
 +++ 
-draft = false
+draft = true
 date = 2020-10-12T05:23:08-05:00
 title = "Thaddeus Russell Conversation"
 description = "A place to save the conversation information."

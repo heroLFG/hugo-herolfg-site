@@ -1,10 +1,10 @@
-+++
++++ 
 draft = false
 date = 2021-03-18T05:06:08-05:00
 title = "Using Words For Good"
 description = "Words Can Create Angels and Monsters"
 slug = "using-words-for-good"
-tags = ['sensemaking','education','politics','religion']
+tags = ['attention','sensemaking','education','politics','religion']
 categories = []
 externalLink = ""
 series = []

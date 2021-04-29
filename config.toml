@@ -10,8 +10,6 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "herolfg"
-
 [params]
     owner = "Gavin Palmer"
     author = "HeroLFG LLC"
