@@ -68,6 +68,8 @@ I want people to wonder if I am the most righteous person on Earth: free from gu
 
 My first born likes to be scared.  My second born does not like to be scared (and neither do I).  I don't want my first born treating us the way he wants to be treated.  The golden rule is not perfect.
 
+When people uphold the golden rule they should uphold the idea that we lead by example.
+
 # The Narrow and Wide Gates
 
 > Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat:
