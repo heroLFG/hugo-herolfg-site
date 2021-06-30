@@ -102,7 +102,7 @@ The process of identifying various doors and thinking about the consequences of 
 
 > And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
 
-There are no sheep.
+There are no sheep.  People who aren't serving the greatest intentions now might do so later in life.
 
 Who brings forth good fruit?
 - The servants: who serve the Greatest Intentions.
