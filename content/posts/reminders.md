@@ -15,11 +15,14 @@ series = []
 [Serious content](/posts/content-creation) should have [version control with historical changes](https://github.com/heroLFG/hugo-herolfg-site/commits/dev/content/posts/reminders.md).
 
 If given the opportunity,
-- be skeptical
+- lead by example
+- be curious
+- be patient
 
-# Judging Others
+# Matthew 7
 
-Related to Matthew 7
+## Judging
+###### Judging Others
 
 > Judge not, that ye be not judged.
 
@@ -42,9 +45,10 @@ I do not know how to cast motes out of other people's eyes.  I do know many ways
 
 > Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you.
 
-Know what is holy.  The most sacred thing I know is children and the process of maturing the childish mind.
+Know what is holy.  The most sacred thing I know is children and the holy intent to mature the childish mind inside and out.
 
-# Prayer and the Golden Rule
+## Self Control
+###### Prayer and the Golden Rule
 
 > Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:
 
@@ -64,16 +68,48 @@ We act in evil ways and we have the opportunity to act in good ways if we seek h
 
 > Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.
 
-I want people to wonder if I am the most righteous person on Earth: free from guilt or sin and best candidate to lead the Earth towards peace and prosperity.  I try to do the same with every person I meet.
+I want people to wonder if I am the most righteous person on Earth: free from guilt or sin and best candidate to lead the Earth towards peace and prosperity.  I will practice doing the same with every person I meet.
 
-My first born likes to be scared.  My second born does not like to be scared (and neither do I).  I don't want my first born treating us the way he wants to be treated.  The golden rule is not perfect.
+My first born likes to be scared.  My second born does not like to be scared (and neither do I).  I don't want my first born treating us the way he wants to be treated.  The golden rule is not perfect.  When people uphold the golden rule they should uphold the idea that we **lead by example**.
 
-When people uphold the golden rule they should uphold the idea that we lead by example.
 
-# The Narrow and Wide Gates
+## The Right and Wrong Way
+###### The Narrow and Wide Gates
 
 > Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat:
 
 > Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.
 
 The process of identifying various doors and thinking about the consequences of choosing one door over another is important.  Most people step through a door too quickly.  When I was a child, I had stepped through many doors: believing in the first story I encountered from others or the first story I imagined as a response to others.  I then learned to retreat from the path I had chosen and tread more carefully with each step.
+
+## The Deceptive Wolves
+
+> Beware of false prophets, which come to you in sheep's clothing, but inwardly they are ravening wolves.
+
+> Ye shall know them by their fruits. Do men gather grapes of thorns, or figs of thistles?
+
+> Even so every good tree bringeth forth good fruit; but a corrupt tree bringeth forth evil fruit.
+
+> A good tree cannot bring forth evil fruit, neither can a corrupt tree bring forth good fruit.
+
+> Every tree that bringeth not forth good fruit is hewn down, and cast into the fire.
+
+> Wherefore by their fruits ye shall know them.
+
+> Not every one that saith unto me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the will of my Father which is in heaven.
+
+> Many will say to me in that day, Lord, Lord, have we not prophesied in thy name? and in thy name have cast out devils? and in thy name done many wonderful works?
+
+> And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
+
+There are no sheep.
+
+Who brings forth good fruit?
+- The servants: who serve the Greatest Intentions.
+
+Who brings forth evil fruit?
+- Those who kill the servants.
+- Those who steal the lives of the servants.
+
+Who brings forth no fruit?
+- The hermits: who merely consume.
