@@ -18,8 +18,11 @@ If given the opportunity,
 - lead by example
 - be curious
 - be patient
+- be humble
 
 # Matthew 7
+
+Using this form of bible study, I was guided into a better belief and hopefully a better life.
 
 ## Judging
 ###### Judging Others
@@ -28,7 +31,9 @@ If given the opportunity,
 
 > For with what judgment ye judge, ye shall be judged: and with what measure ye mete, it shall be measured to you again.
 
-A childish mind will become stressed about their appearances and how others will perceive them because the childish mind interprets superficial appearances too quickly and with too much confidence and without curiousity.
+We can become stressed about our appearances and how others will perceive us because we interpret superficial appearances too quickly and with too much confidence and without curiousity.  This can be come part of our subconscious.
+
+When we judge others as having lesser immature childish minds they will judge us as having lesser immature childish minds.
 
 - Do not judge people by the way they look.
 - Other people should not judge you by the way you look.
@@ -37,15 +42,17 @@ A childish mind will become stressed about their appearances and how others will
 
 > Or how wilt thou say to thy brother, Let me pull out the mote out of thine eye; and, behold, a beam is in thine own eye?
 
-A childish mind will belittle other people's work even when it is inferior to their own work.
+We humans often belittle other people's work even when our own work is inferior.  This can become part of our subconscious.
+
+- Be curious about the importance of people's work.
 
 > Thou hypocrite, first cast out the beam out of thine own eye; and then shalt thou see clearly to cast out the mote out of thy brother's eye.
 
-I do not know how to cast motes out of other people's eyes.  I do know many ways to fail at casting motes out of other people's eyes.
+I do not know how to cast motes out of other people's eyes yet.  I will practice by removing the beam from my own eye and addressing my mistaken subconscious views.  I am reminded of Thich Nhat Hanh saying all views are wrong views.
 
 > Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you.
 
-Know what is holy.  The most sacred thing I know is children and the holy intent to mature the childish mind inside and out.
+Know what is holy.  The most sacred thing I know is children and the holy intent to mature the childish mind within myself.  I can then be of better service to others, including my wife and children.
 
 ## Self Control
 ###### Prayer and the Golden Rule
@@ -68,10 +75,7 @@ We act in evil ways and we have the opportunity to act in good ways if we seek h
 
 > Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets.
 
-I want people to wonder if I am the most righteous person on Earth: free from guilt or sin and best candidate to lead the Earth towards peace and prosperity.  I will practice doing the same with every person I meet.
-
-My first born likes to be scared.  My second born does not like to be scared (and neither do I).  I don't want my first born treating us the way he wants to be treated.  The golden rule is not perfect.  When people uphold the golden rule they should uphold the idea that we **lead by example**.
-
+I want to be respected and therefore I must respect others.  Viewing others as having childish minds will cause them to view me as having a childish mind.  Children are holy and sacred.  We are all children.
 
 ## The Right and Wrong Way
 ###### The Narrow and Wide Gates
@@ -80,7 +84,7 @@ My first born likes to be scared.  My second born does not like to be scared (an
 
 > Because strait is the gate, and narrow is the way, which leadeth unto life, and few there be that find it.
 
-The process of identifying various doors and thinking about the consequences of choosing one door over another is important.  Most people step through a door too quickly.  When I was a child, I had stepped through many doors: believing in the first story I encountered from others or the first story I imagined as a response to others.  I then learned to retreat from the path I had chosen and tread more carefully with each step.
+The process of identifying various doors and thinking about the consequences of choosing one door over another is important.  Most people step through a door too quickly.  When I was a child, I had stepped through many doors: believing in the first story I encountered from others or the first story I imagined as a response to others.  I practice retreating from the path I had chosen and treading more carefully with each step.
 
 ## The Deceptive Wolves
 
@@ -102,7 +106,7 @@ The process of identifying various doors and thinking about the consequences of 
 
 > And then will I profess unto them, I never knew you: depart from me, ye that work iniquity.
 
-There are no sheep.  People who aren't serving the greatest intentions now might do so later in life.
+There are no sheep.  We are all immature childish monsters.  If we try, we can learn to better serve the greatest intentions.
 
 Who brings forth good fruit?
 - The servants: who serve the Greatest Intentions.
@@ -113,3 +117,19 @@ Who brings forth evil fruit?
 
 Who brings forth no fruit?
 - The hermits: who merely consume.
+
+## Withstanding the Storm
+
+> Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:
+
+> And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell not: for it was founded upon a rock.
+
+> And every one that heareth these sayings of mine, and doeth them not, shall be likened unto a foolish man, which built his house upon the sand:
+
+> And the rain descended, and the floods came, and the winds blew, and beat upon that house; and it fell: and great was the fall of it.
+
+> And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine:
+
+> For he taught them as one having authority, and not as the scribes.
+
+Last night I dreamed of a flood.  Everything was wonderful.  My children and I had caught some enormous fish.  But the flood came and took the fish and then the boat keys and then the boat.  Some family and friends came to help and fortunately no people were lost in the flood.
