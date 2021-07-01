@@ -50,6 +50,8 @@ We humans often belittle other people's work even when our own work is inferior.
 
 I do not know how to cast motes out of other people's eyes yet.  I will practice by removing the beam from my own eye and addressing my mistaken subconscious views.  I am reminded of Thich Nhat Hanh saying all views are wrong views.
 
+{{< youtube yN3Rf2CPFn0 >}}
+
 > Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you.
 
 Know what is holy.  The most sacred thing I know is children and the holy intent to mature the childish mind within myself.  I can then be of better service to others, including my wife and children.
