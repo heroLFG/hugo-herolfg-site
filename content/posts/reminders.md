@@ -15,10 +15,16 @@ series = []
 [Serious content](/posts/content-creation) should have [version control with historical changes](https://github.com/heroLFG/hugo-herolfg-site/commits/dev/content/posts/reminders.md).
 
 If given the opportunity,
+
 - lead by example
 - be curious
 - be patient
 - be humble
+- be grateful
+
+# Gratitude
+
+The present moment is a present with infinite details.  When we are ignorant of the present moment we are not grateful.
 
 # Matthew 7
 
