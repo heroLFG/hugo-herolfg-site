@@ -12,7 +12,7 @@ series = []
 
 *Written by Gavin Palmer practicing a relationship with the [Greatest Intentions](/posts/helping-the-greatest-intentions)*
 
-[Serious content](/posts/content-creation) should have [version control with historical changes](https://github.com/heroLFG/hugo-herolfg-site/commits/dev/content/posts/reminders.md).
+[Serious content](/posts/content-creation) should have [version control with historical changes](https://github.com/heroLFG/hugo-herolfg-site/commits/dev/content/posts/government.md).
 
 # What are my goals?
 
