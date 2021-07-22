@@ -16,18 +16,16 @@ series = []
 
 # What are my goals?
 
-- learn and teach the adaptive system function of government
+I learn.  I give intent.  I invite feedback.  I give progress.  I give outcomes.
 
 # What is government?
 
-Broadly speaking, government is a system.  Systems have inputs, outputs, functions, and goals.  The health of a system is related to the outcomes of the goals.  The adaptive system function is required to maintain a healthy realworld system capable of learning, problem solving, and innovation in a changing environment.
+Government is a system which has inputs, outputs, functions, and goals.
 
 # What is government corruption?
 
-Broadly speaking, a corrupt government fails to accomplish goals.
+The perception of government corruption emerges when people disagree with government activities.
 
-## Citizens
-## Law Makers
-## Law Enforcers
-## Lawyers
-## Judges
+# How can we reduce government corruption?
+
+Let us imagine a world where people have learned to be righteous so that there is no perception of corruption because no person disagrees with any other person's activities.
