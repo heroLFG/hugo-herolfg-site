@@ -17,14 +17,34 @@ series = []
 If given the opportunity,
 
 - lead by example
+- be healthy
+- be humble
 - be curious
 - be patient
-- be humble
 - be grateful
+- be peaceful
+
+# Attention
+
+Attention is the most valuable resource in the world.
+
+The present moment is a present with infinite details.  When we are ignorant of the present moment we are not humble, curious, patient, grateful, nor peaceful.
+
+# Humility
+
+Humility is uncertain.
+
+# Curiosity
+
+Curiosity discovers.
+
+# Patience
+
+Patience is timeless.
 
 # Gratitude
 
-The present moment is a present with infinite details.  When we are ignorant of the present moment we are not grateful.
+Gratitude knows reality.
 
 # Matthew 7
 
