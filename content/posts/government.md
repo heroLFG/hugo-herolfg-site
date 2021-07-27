@@ -16,7 +16,7 @@ series = []
 
 # What are my goals?
 
-I learn.  I give intent.  I invite feedback.  I give progress.  I give outcomes.
+I learn.  I give intent.  I invite feedback.  I give progress.  I give outcomes. I seek peace.
 
 # What is government?
 

@@ -17,14 +17,34 @@ series = []
 If given the opportunity,
 
 - lead by example
+- be healthy
+- be humble
 - be curious
 - be patient
-- be humble
 - be grateful
+- be peaceful
+
+# Attention
+
+Attention is the most valuable resource in the world.
+
+The present moment is a present with infinite details.  When we are ignorant of the present moment we are not humble, curious, patient, grateful, nor peaceful.
+
+# Humility
+
+Humility is uncertain.
+
+# Curiosity
+
+Curiosity discovers.
+
+# Patience
+
+Patience is timeless.
 
 # Gratitude
 
-The present moment is a present with infinite details.  When we are ignorant of the present moment we are not grateful.
+Gratitude knows reality.
 
 # Matthew 7
 
@@ -141,3 +161,41 @@ Who brings forth no fruit?
 > For he taught them as one having authority, and not as the scribes.
 
 Last night I dreamed of a flood.  Everything was wonderful.  My children and I had caught some enormous fish.  But the flood came and took the fish and then the boat keys and then the boat.  Some family and friends came to help and fortunately no people were lost in the flood.
+
+# Luke 18 (jw.org)
+ 
+> Then he went on to tell them an illustration about the need for them always to pray and not give u, saying "In a certain city there was a judge who had no fear of God and no respect for man.  There was also a widow in that city who kept going to him and saying, 'See that I get justice form my legal opponent.'  Well, for a while he was unwilling, but afterward he said to himself, 'Although I do not fear God or respect any man, because this widow keeps making me trouble, I will see that she gets justice so that she will not keep coming and wearing me out with her demand.'"  Then the Lord said: "Hear what the judge, although unrighteous, said!  Certainly, then will not God cause justice to be done for his chosen ones who cry out to him day and night, while he is patient toward them?  I tell you, he will cause justice to be done to them speedily.  Neverless, when the Son of man arrives, will he really find this faith on the earth?"
+ 
+Allow the present to be a perfect teacher: the best present of all.
+ 
+> He also told this illustration to some who trusted in their own righteousness and who considered others as nothing: "Two men went up into the temple to pray, the one a Pharisee and the other a tax collector.  The Pharisee stood and began to pray these things to himself, 'O God, I thank you that I am not like everyone else - extortioners, unrighteous, adulterers - or even like this tax collector.  I fast twice a week; I give the tenth of all things I acquire.'  But the tax collector, standing at a distance, was not willing even to raise his eyes heavenward but kept beating his chest, saying, 'O God, be gracious to me, a sinner.'  I tell you, this man went down to his home and was proved more righteous than that Pharisee.  Because everyone who exalts himself will be humiliated, but whoever humbles himself will be exalted."
+ 
+I've definitely been humiliated because I exalted myself.
+ 
+> Now people were also bringing him their infants for him to touch them, but on seeing this, the disciples began to reprimand them.  However, Jesus called the infants to him, saying: "Let the young children come to me, and do not try to stop them, for the Kingdom of God belongs to such ones.  Truly I say to you, whoever does not receive the Kingdom of God like a young child will by no means enter into it."
+ 
+We are all children.
+ 
+> And one of the rulers questioned him, saying: "Good Teacher, what must I do to inherit everlasting life?"  Jesus said to him: "Why do you call me good?  Nobody is good except one, God.
+ 
+I prefer to believe Jesus was a very righteous man.  I do not accept the trinitarian view.
+ 
+> You know the commandments: 'Do not commit adultery, do not murder, do not steal, do not bear false witness, honor your father and your mother."  Then he said: "All of these I have kept from youth on."  After hearing that, Jesus said to him, "There is still one thing lacking about you: Sell all the things you have and distribute the proceeds to the poor, and you will have treasure in the heavens; and come be my follower."  When he heard this, he became deeply grieved, for he was very rich.
+ 
+These verses are the ones that pulled me toward Luke 18.  I like the idea of being rid of my things.  I don't like the idea of trying to sell them, and I don't like the idea of throwing them away.  It is easier to give my things to an organization that will sell them to help the poor.  But how do you help the poor?  I am interested in helping children.  But giving money to children isn't the right way.  And we are all children.  I am also reminded that we should give our alms in private while being like the candle which will shine light into the darkness.
+ 
+> Jesus looked at him and said: "How difficult it will be for those having money to make their way into the Kingdom of God!  It is easier, in fact, for a camel to get through the eye of a sewing needle than for a rich man to enter the Kingdom of God."
+ 
+Most people in the United States are rich.
+ 
+> Those who heard this said: "Who possibly can be saved?"  He said: "The things impossible with men are possible with God."  But Peter said: "Look! We have left what was ours and followed you."  He said to them: "Truly I say to you, there is no one who has left house or wife or brothers or parents or children for the sake of the Kingdom of God who will not get many times more in this period of time, and in the coming system of things, everlasting life."
+ 
+Being a father and husband is sacred to me.
+ 
+> Then he took the Twelve aside and said to them: "Look! We are going up to Jerusalem, and all the things written by means of the prophets about the Son of man will be accomplished.  For instance, he will be handed over to men of the nations and will be mocked and treated insolently and spat on.  And after scourging him, they will kill him, but on the third day he will rise."  However, they did not get the meaning of any of these things, for these words were hidden from them, and they did not understand the things said.
+ 
+## Healing Miracles
+
+> Now as Jesus was getting near to Jericho, a blind man was sitting beside the road begging.  Because he heard a crowd passing by, he began to inquire what was going on.  They reported to him: "Jesus the Nazarene is passing by!" At that he cried out: "Jesus, Son of David, have mercy on me!"  And those who were in front began rebuking him, telling him to keep quiet, but all the more he kept shouting: "Son of David, have mercy on me!"  Then Jesus stopped and commanded that the man be brought to him.  After he came near, Jesus asked him: "What do you want me to do for you?"  He said: "Lord, let me recover my sight."  So Jesus said to him: "Recover your sight; your faith has made you well."  And instantly he recovered his sight, and he began to follow him, glorifying God.  Also, at seeing it, all the people gave praise to God.
+ 
+I remember my Pawpaw asked if I wanted my warts to go away.  I said yes.  He asked for my hand.  He held my hand, closed his eyes, turned his head upward, said some strange words, brought his head down, opened his eyes, and told me to forget about the the warts and about what happened that day.  I believed him.  And I did what he said.  Many weeks or months later I noticed that my warts were gone.  I told my Pawpaw that they went away and he didn't remember praying my warts away.  I am reminded of placebo and nocebo effects.
