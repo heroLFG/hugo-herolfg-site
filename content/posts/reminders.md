@@ -17,34 +17,50 @@ series = []
 If given the opportunity,
 
 - lead by example
-- be healthy
+- be intentional
+- be strategic
 - be humble
 - be curious
 - be patient
 - be grateful
 - be peaceful
+- be playful
+- be healthy
 
 # Attention
-
 Attention is the most valuable resource in the world.
 
 The present moment is a present with infinite details.  When we are ignorant of the present moment we are not humble, curious, patient, grateful, nor peaceful.
 
-# Humility
+# Leadership
+Minds are contageous.
 
+# Intent
+Intentions are goals.
+
+# Strategy
+Right time, right place.
+
+# Humility
 Humility is uncertain.
 
 # Curiosity
-
 Curiosity discovers.
 
 # Patience
-
 Patience is timeless.
 
 # Gratitude
-
 Gratitude knows reality.
+
+# Peace
+An undisturbed mind.
+
+# Play
+Play is fun-da-mental.
+
+# Health
+Measurement of outcomes against intentions.
 
 # Matthew 7
 
