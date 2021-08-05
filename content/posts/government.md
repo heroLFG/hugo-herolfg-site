@@ -28,19 +28,13 @@ The perception of government corruption emerges when people disagree with govern
 
 # How can we reduce government corruption?
 
-Let us imagine a world where people have learned to be righteous so that there is no perception of corruption because no person disagrees with any other person's activities.
+Learn to communicate our goals and organize in ways which avoid conflicts of interest.
 
 # People and Government
 
 ## Patronizing and Condescending People
 
-I will begin with some thoughts from Jacob Faturechi:
-
-> Very few words in English have exactly the same meaning; even words which appear to be entirely synonymous often will be found to have small differences in certain contexts. The words condescending and patronizing present a fine example of this. At first glance these words appear to be defined somewhat circularly: condescending often has the word "patronizing" in its definition, and patronize is defined, in part, as “to adopt an air of condescension toward.”
-> But both of these words have specialized senses that lend a shade of meaning to their synonymous senses. Patronizing can mean "giving support to" or "being a customer of," suggesting that the "condescending" sense implies superiority gained through a donor-dependent relationship.
-> The verb condescend used to be free of any hint of the offensive superiority it usually suggests today. It could mean literally "to go or come down" or, figuratively, "to willingly lower oneself to another’s level," senses that are still occasionally encountered in writings on the Bible. The idea of self-consciously lowering oneself is implied in the "patronizing" sense of condescending.
-
-Sometimes people judge themselves as being superior or better than other people.
+We judge ourselves to be better than other people when we ignore people's goals: our own goals and other people's goals.  Our perception of our superiority gets in the way of our ability to know people's goals and become the patron who allows other people's goals to ascend into our focus.  Cooperation with other people is a common goal for any person who has looked deeply to know their own goals.
 
 # Biblical Themes: Archetypes and Patterns
 

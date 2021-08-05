@@ -21,3 +21,7 @@ I instead worked on [the post about government in general](/posts/government).  
 I work to accomplish the goal.  If the work fails to accomplish the goal, I experience discomfot related to failure.  A reason why I fail is because of a lack of planning, especially with regard to timelines.  It is best for me to break big goals up into smaller goals so that I can accomplish mini goals within small chunks of time.
 
 My mind can become hyper focused on problems and providing solutions to those problems.  When my mind becomes focused, it is ignoring everything else and resists being disturbed or distracted.  I should be able to put my goals into perspective with regard to their relationship with each other and space-time.
+
+### 08/05/2021
+
+I dream of Loki.  Loki creates illusions, deceptions, and tricks.  The truth is hidden and the mind becomes ignorant, distracted, and disturbed.  Loki may do these creations for fun and without bad intentions.  When Loki creates a fake wall to hide the truth, evil people can hide behind that fake wall.  When Loki distracts the minds, evil people can move into position for their deadly attacks.  Evil people can capture and use Loki for their purposes because Loki is not honest.

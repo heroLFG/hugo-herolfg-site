@@ -24,6 +24,10 @@ Words are symbols and symbols can attempt to point at the Truth.  The territory 
 
 # What is not Truth?
 
+Words are not Truth when they do not serve our group's goals.  Our group are those who know and share intentions to facilitate cooperation.  I see powerful people who are not in my group and do not speak Truth because they do not share my goals for peace on Earth.
+
+People will ask "who are 'they'?".  The "they" are those people who do not share our group's intentions and goals.
+
 ## Familiar Words Used in Strange Ways
 
 My 5 year old son was playing with my 1 year old daughter and he was gently saying "ow, ow, ow, ow" while smiling and enjoying their play time.  My wife and I think saying "ow" is not right.  We use the word "ow" to indicate pain.  We don't use the word "ow" to indicate pleasure and play.  Saying "ow" in this situation is not Truth in our family.  We are teaching familiarity with words in context.  Notice the similarity between the words "family" and "familiarity".
@@ -38,7 +42,7 @@ Our first interpretation of the other person's words is not Truth.  We really ca
 
 ## Wise People
 
-Wise people avoid using words.
+Wise people are very careful with their words.
 
 ## Honest People
 
@@ -46,7 +50,7 @@ Honest people use words with the intent to teach and learn.
 
 ## Deceptive People
 
-Deceptive people use words with the intent to confuse people.
+Deceptive people use words with the intent to distract people.
 
 ## Stubborn People
 

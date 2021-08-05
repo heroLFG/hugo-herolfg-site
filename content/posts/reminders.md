@@ -16,8 +16,11 @@ series = []
 
 If given the opportunity,
 
+- observe attention
 - lead by example
+- be honest
 - be intentional
+- be healthy
 - be strategic
 - be humble
 - be curious
@@ -25,21 +28,38 @@ If given the opportunity,
 - be grateful
 - be peaceful
 - be playful
-- be healthy
 
 # Attention
 Attention is the most valuable resource in the world.
 
-The present moment is a present with infinite details.  When we are ignorant of the present moment we are not humble, curious, patient, grateful, nor peaceful.
-
 # Leadership
 Minds are contageous.
+
+Pace then lead.  Listen first.  Observe other people's attention before trying to move or improve their attention.
+
+# Honesty
+Knowing and sharing intentions.
+
+When we focus our attention we develop blindness to everything else.  When we lead the mind's attention toward something we are leading the mind's attention away from everything else.  Every word is a pointer capable of generating ideas and emotions in minds.  Words are like magical spells and we should be careful with our spelling.  What is the spell caster's intentions?  Does the spell caster ignore other people's health?
 
 # Intent
 Intentions are goals.
 
+We move our attention into the future when we aim at goals.  We move our attention into the past when we learn from our experiments in order to help us with future goals by avoiding repeating our mistakes.  People who share common goals can cooperate and multiply their efforts.  Distant goals in time and space can become less distant with cooperation.  We can cooperate with other people's goals and we can cooperate with our own goals to become increasingly reinforcing and antifragile.
+
+{{< youtube 8_-8-aFuDV8 >}}
+
+# Health
+Measurement of outcomes against intentions.
+
+As we learn from mistakes, our measurements indicate improvement in our ability to hit the target goal we are aiming at.  When our measurements indicate that we are moving away from the target goal we are aiming at we can discover mistakes.  There are basic measurements of health associated with our biological outputs: changes in weight, urine, feces, strength, and mood.  Our biological health is important when we have distant goals in space and time.  Biological health of ourselves and others is important when our goal is to cooperate with other people for long periods of time.
+
 # Strategy
-Right time, right place.
+Right time, right place, right way.
+
+Some goals are not cooperative.  The goal to be playful can be in conflict with the goal to be honest.  The goal to be grateful can be in conflict with other goals when we move attention away from the present.  Our goals, actions, and attention can be nested, coupled, and arranged in various ways throughout time and space which produce various outcomes.  When people's goals come into conflict with other people's goals, there is a possibility for violence which threatens any and every distant goal.
+
+Learn to communicate our goals and organize in ways which avoid conflicts of interest.
 
 # Humility
 Humility is uncertain.
@@ -53,14 +73,13 @@ Patience is timeless.
 # Gratitude
 Gratitude knows reality.
 
+Move attention into the present moment which is a present with infinite details worthy of gratitude.
+
 # Peace
 An undisturbed mind.
 
 # Play
 Play is fun-da-mental.
-
-# Health
-Measurement of outcomes against intentions.
 
 # Matthew 7
 
