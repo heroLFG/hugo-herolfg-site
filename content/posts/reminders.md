@@ -16,6 +16,7 @@ series = []
 
 If given the opportunity,
 
+- cooperate
 - observe attention
 - lead by example
 - be honest
@@ -28,6 +29,9 @@ If given the opportunity,
 - be grateful
 - be peaceful
 - be playful
+
+# Cooperation
+Cooperation is the word I would use to describe our reality.  Work with reality.
 
 # Attention
 Attention is the most valuable resource in the world.
