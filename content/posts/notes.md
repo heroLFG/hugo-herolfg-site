@@ -25,3 +25,7 @@ My mind can become hyper focused on problems and providing solutions to those pr
 ### 08/05/2021
 
 I dream of Loki.  Loki creates illusions, deceptions, and tricks.  The truth is hidden and the mind becomes ignorant, distracted, and disturbed.  Loki may do these creations for fun and without bad intentions.  When Loki creates a fake wall to hide the truth, evil people can hide behind that fake wall.  When Loki distracts the minds, evil people can move into position for their deadly attacks.  Evil people can capture and use Loki for their purposes because Loki is not honest.
+
+### 08/13/2021
+
+I dream of a place of angels.  The angels put on a show and many people attend.  But once the show is over, people begin leaving.  We are not interested in what they say after the show.  I decide to stay and wait and see what happsn.
