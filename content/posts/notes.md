@@ -10,6 +10,27 @@ externalLink = ""
 series = []
 +++
 
+### 09/15/2011
+
+Wresting With God
+
+Young Chris ends up being locked in a prison because of his use of illegal plants.
+
+Old Chis is playing flag football as a quarterback, and a snobby reporter is telling him that football is a waste of time.  Chris is explaining that he lives in the community and spends his money in the community.  He gives back to the community.
+
+Younger Chris finally straightens up his act when a family member begins to visit him in prison as much as possible.  It's almost like she is there with him as a cell mate in prison.  She discourages him from trying to escape when he gets the chance to escape.
+
+Old Chris falls in love with a single mother of a young girl.  He tries his best to help take care of the young girl when the mother is struggling in life.  There is a funny scene where Chris has been keeping an eye on the young girl and is returning her to her mother.  The young girl explains how Chris had treated her which is both kind and funny and concerning to the mother.  It substory had something to do with sleeping next to the freezer.
+
+One year later, old Chris is now a single father.  He had married the single mother he loved, and she had died.  Chris is sad.  But the young girl and his responsibility is a light in the darkness.
+
+Before Chris' wife dies, they live in something like a trailer park.  And the neighbors manage to taunt Chris into throwing football  They pick on him because he can't throw a screen pass.  The ball rolls to Chris' young daughter who picks it up and flings it back to Chris.  By watching his daughter, he learns to throw the screen pass.
+
+Chris, his wife, and his daughter want to go to the fair to do a football throwing competition.  A man in a truck with a trailer of cows is in the background.  Chris and his family are having some trouble getting to the fair.  Chris jokingly mentions to his wife, "Maybe God will give us a ride.  And while he's at it, maybe God will get us some chicken too, I'm hungry!"  The truck with the trailer of cows disconnects from the cows, moves and connects to a trailer of chickens, and the driver invites Chris and his family if they want a ride to the fair.
+
+more notes:
+- (Christophoros) meaning "bearing Christ"
+
 ### 09/11/2021
 
 I came across a [CIA document](https://drive.google.com/file/d/1-EPqRNBeUGJ2mqdPPqxmSGzoPiy5CS3i/view?usp=sharing) where a handler interacted with a psychic who tried to visit a different time and space.  I had never considered that the worlds I visit are in a different point in time within our reality and that people I meet there may perceive me as some kind of hallucination.  I had never considered that the entities I meet might be from our future.
