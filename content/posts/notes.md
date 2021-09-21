@@ -10,7 +10,13 @@ externalLink = ""
 series = []
 +++
 
-### 09/15/2011
+### 09/21/2021
+
+From dreams:
+- I prefer education through simulation and virtual environments because there is less risk.  The risk is not completely zero as virtual environments can provide an outlet for escapism.
+- People develop dependencies for having fun and never practice having fun with no things.
+
+### 09/15/2021
 
 Wresting With God
 

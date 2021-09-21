@@ -55,3 +55,6 @@ Thinking about good solutions to problems could be helpful in the event that we 
             - Do not be too quick to dictate laws to these intentional communities.
         - Encourage segregation of communities based on their unique risk tolerence and preference for various rules.
             - Some communities can be very libertarian, totalitarian, or something else.
+
+## Related Posts
+- [healthcare problems and solutions](/posts/healthcare-problems-and-solutions)
