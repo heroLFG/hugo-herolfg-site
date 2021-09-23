@@ -19,6 +19,8 @@ series = []
 People report the COVID-19 pandemic leads to hospitals being overcrowded with COVID-19 patients which strains the healthcare system.
 
 # Short-term Solution: Allow Assisted Suicides
+- A better choice of words would be "improved hospice services" instead of "allow assisted suicides".
+- People responded in a predictable way to my suggestion that assisted suicides would improve our healthcare system.  I used a [familiar word in a strange way](/posts/truth#familiar-words-used-in-strange-ways).  When I use the phrase "assisted suicide" people imagine euthanasia.  I was merely thinking that an old person occupying vital resources needed by a younger person which they deem to have more responsibility and potential should be empowered to choose to go home and face death with honor.  When I explained my thinking, I was told that I am thinking about "hospice".
 
 There are situations where patients should be allowed to know if they are occupying vital healthcare resources which could be given to other patients.  A patient should be allowed to give their resources to other people.  The patient's pain and suffering could be eased with medications administered by volunteers.
 

@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2021-07-30T05:21:08-05:00
 title = "True"
 description = "What is Truth and not Truth?"
