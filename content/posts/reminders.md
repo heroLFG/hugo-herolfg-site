@@ -30,6 +30,14 @@ If given the opportunity,
 - be peaceful
 - be playful
 
+# Religion
+Our religion is how we act in the world.  Our actions should align with nature.
+- The newborn should be given to the parent so that the natural parenting instinct is engaged.
+- Quickly write down what is important because our memories are limited.
+- Review the important notes that are written and improve the writings because we are born ignorant and capable of learning.
+- Do not be too quick to dismiss what has been written as unimportant because the importance may become relevant.
+- Organize what has been written with regard to importance because our memories are limited and we can train the subconscious.
+
 # Cooperation
 Cooperation is the word I would use to describe our reality.  Work with reality.
 

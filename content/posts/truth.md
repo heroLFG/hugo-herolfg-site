@@ -55,3 +55,27 @@ Deceptive people use words with the intent to distract people.
 ## Stubborn People
 
 Stubborn people cling to their ways.
+
+## Christian People
+
+A Christian is a person who attempts to be like Christ.
+
+## Christ
+
+Christ is the person who serves the Creator and becomes part of the church and creates peace in our world.
+
+## Church
+
+The church is the group of Christians working with the Holy Spirit.
+
+## Creator
+
+The Creator loves all people and aims at peace.  The Creator does not love all behaviors.
+
+## Holy Spirit
+
+The spirit of cooperation.
+
+### Who Am I?
+
+- I constantly practice asking that the Creator be with me through the Holy Spirit who loves all people and aims at peace.
