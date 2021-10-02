@@ -10,9 +10,22 @@ externalLink = ""
 series = []
 +++
 
+### 10/02/2021
+
+Elections do not change the balance of power when power is rooted into common ground.
+
+### 10/01/2021
+
+Not from a dream: people who wait in line should have visibility into their position in line.  My co-worker has no clue when his wife will be interviewed so that he can return to the United States with his wife.  He has been waiting for 2 years.
+
+### 09/31/2021
+
+I asked the religious leader in the dream for their name.  The leader said "whoisyou".  I woke up and thought about the name and translated it to a question: "who is you?".  Who am I if I am perfect in my relationship with the Creator?  And who is each person who is perfect in their relationship with the Creator?  Did I visit a space time and appear as an interdimensional being to this religious leader?  I think the people in this dream world were taking LSD.
+
 ### 09/21/2021
 
 From dreams:
+
 - I prefer education through simulation and virtual environments because there is less risk.  The risk is not completely zero as virtual environments can provide an outlet for escapism.
 - People develop dependencies for having fun and never practice having fun with no things.
 
@@ -35,6 +48,7 @@ Before Chris' wife dies, they live in something like a trailer park.  And the ne
 Chris, his wife, and his daughter want to go to the fair to do a football throwing competition.  A man in a truck with a trailer of cows is in the background.  Chris and his family are having some trouble getting to the fair.  Chris jokingly mentions to his wife, "Maybe God will give us a ride.  And while he's at it, maybe God will get us some chicken too, I'm hungry!"  The truck with the trailer of cows disconnects from the cows, moves and connects to a trailer of chickens, and the driver invites Chris and his family if they want a ride to the fair.
 
 more notes:
+
 - (Christophoros) meaning "bearing Christ"
 
 ### 09/11/2021

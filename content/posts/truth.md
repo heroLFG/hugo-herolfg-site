@@ -70,12 +70,8 @@ The church is the group of Christians working with the Holy Spirit.
 
 ## Creator
 
-The Creator loves all people and aims at peace.  The Creator does not love all behaviors.
+The Creator loves all people and aims at peace.  The Creator does not love all behaviors.  The Creator is eternal, inviting, and near.
 
 ## Holy Spirit
 
 The spirit of cooperation.
-
-### Who Am I?
-
-- I constantly practice asking that the Creator be with me through the Holy Spirit who loves all people and aims at peace.

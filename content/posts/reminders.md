@@ -30,74 +30,114 @@ If given the opportunity,
 - be peaceful
 - be playful
 
-# Religion
+## Religious
+
 Our religion is how we act in the world.  Our actions should align with nature.
+
+- I act as if the Creator is real.
+- I act as if the Creator is omniscient.
+- I act as if the Creator is omnispresent.
+- I act as if the Creator is inviting.
+  - this is not the Creator's world to take.
+    - I act as if we choose to invite the Creator into this world.
+  - this is not the Creator's body to take.
+    - I act as if we choose to invite the Creator into our life.
+
 - The newborn should be given to the parent so that the natural parenting instinct is engaged.
 - Quickly write down what is important because our memories are limited.
 - Review the important notes that are written and improve the writings because we are born ignorant and capable of learning.
 - Do not be too quick to dismiss what has been written as unimportant because the importance may become relevant.
 - Organize what has been written with regard to importance because our memories are limited and we can train the subconscious.
 
-# Cooperation
+### Questions
+
+- What happens when people have wrong views or beliefs?
+  - Do you ever worry that your beliefs are wrong?
+
+- What is the goal of the Creator?
+  - Does the Creator want peace on Earth?
+
+- How does the Creator accomplish the goal?
+  - What is the relationship between the Creator and us?
+
+- How do you feel about judging people?
+  - Do you judge the person's willingness and ability to align with the Creator's goals?
+    - Do you care about competence hierarchies?
+
+## Cooperation
+
 Cooperation is the word I would use to describe our reality.  Work with reality.
 
-# Attention
+## Attention
+
 Attention is the most valuable resource in the world.
 
-# Leadership
+## Leadership
+
 Minds are contageous.
 
 Pace then lead.  Listen first.  Observe other people's attention before trying to move or improve their attention.
 
-# Honesty
+## Honesty
+
 Knowing and sharing intentions.
 
 When we focus our attention we develop blindness to everything else.  When we lead the mind's attention toward something we are leading the mind's attention away from everything else.  Every word is a pointer capable of generating ideas and emotions in minds.  Words are like magical spells and we should be careful with our spelling.  What is the spell caster's intentions?  Does the spell caster ignore other people's health?
 
-# Intent
+## Intent
+
 Intentions are goals.
 
 We move our attention into the future when we aim at goals.  We move our attention into the past when we learn from our experiments in order to help us with future goals by avoiding repeating our mistakes.  People who share common goals can cooperate and multiply their efforts.  Distant goals in time and space can become less distant with cooperation.  We can cooperate with other people's goals and we can cooperate with our own goals to become increasingly reinforcing and antifragile.
 
 {{< youtube 8_-8-aFuDV8 >}}
 
-# Health
+## Health
+
 Measurement of outcomes against intentions.
 
 As we learn from mistakes, our measurements indicate improvement in our ability to hit the target goal we are aiming at.  When our measurements indicate that we are moving away from the target goal we are aiming at we can discover mistakes.  There are basic measurements of health associated with our biological outputs: changes in weight, urine, feces, strength, and mood.  Our biological health is important when we have distant goals in space and time.  Biological health of ourselves and others is important when our goal is to cooperate with other people for long periods of time.
 
-# Strategy
+## Strategy
+
 Right time, right place, right way.
 
 Some goals are not cooperative.  The goal to be playful can be in conflict with the goal to be honest.  The goal to be grateful can be in conflict with other goals when we move attention away from the present.  Our goals, actions, and attention can be nested, coupled, and arranged in various ways throughout time and space which produce various outcomes.  When people's goals come into conflict with other people's goals, there is a possibility for violence which threatens any and every distant goal.
 
 Learn to communicate our goals and organize in ways which avoid conflicts of interest.
 
-# Humility
+## Humility
+
 Humility is uncertain.
 
-# Curiosity
+## Curiosity
+
 Curiosity discovers.
 
-# Patience
+## Patience
+
 Patience is timeless.
 
-# Gratitude
+## Gratitude
+
 Gratitude knows reality.
 
 Move attention into the present moment which is a present with infinite details worthy of gratitude.
 
-# Peace
+## Peace
+
 An undisturbed mind.
 
-# Play
+## Play
+
 Play is fun-da-mental.
 
-# Matthew 7
+## Matthew 7
 
 Using this form of bible study, I was guided into a better belief and hopefully a better life.
 
-## Judging
+### Judging
+
 ###### Judging Others
 
 > Judge not, that ye be not judged.
@@ -129,7 +169,8 @@ I do not know how to cast motes out of other people's eyes yet.  I will practice
 
 Know what is holy.  The most sacred thing I know is children and the holy intent to mature the childish mind within myself.  I can then be of better service to others, including my wife and children.
 
-## Self Control
+### Self Control
+
 ###### Prayer and the Golden Rule
 
 > Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you:
@@ -152,7 +193,8 @@ We act in evil ways and we have the opportunity to act in good ways if we seek h
 
 I want to be respected and therefore I must respect others.  Viewing others as having childish minds will cause them to view me as having a childish mind.  Children are holy and sacred.  We are all children.
 
-## The Right and Wrong Way
+### The Right and Wrong Way
+
 ###### The Narrow and Wide Gates
 
 > Enter ye in at the strait gate: for wide is the gate, and broad is the way, that leadeth to destruction, and many there be which go in thereat:
@@ -161,7 +203,7 @@ I want to be respected and therefore I must respect others.  Viewing others as h
 
 The process of identifying various doors and thinking about the consequences of choosing one door over another is important.  Most people step through a door too quickly.  When I was a child, I had stepped through many doors: believing in the first story I encountered from others or the first story I imagined as a response to others.  I practice retreating from the path I had chosen and treading more carefully with each step.
 
-## The Deceptive Wolves
+### The Deceptive Wolves
 
 > Beware of false prophets, which come to you in sheep's clothing, but inwardly they are ravening wolves.
 
@@ -193,7 +235,7 @@ Who brings forth evil fruit?
 Who brings forth no fruit?
 - The hermits: who merely consume.
 
-## Withstanding the Storm
+### Withstanding the Storm
 
 > Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:
 

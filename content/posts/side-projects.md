@@ -10,6 +10,7 @@ externalLink = ""
 series = []
 +++
 
+- [Truth](/posts/truth)
 - [My Religion](/posts/reminders)
 - [Convective Heat Engine (CHE)](/posts/global-climate-change/)
 - [Crowdsource Mail](/posts/crowdsource-mail)
