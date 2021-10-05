@@ -18,7 +18,7 @@ Elections do not change the balance of power when power is rooted into common gr
 
 Not from a dream: people who wait in line should have visibility into their position in line.  My co-worker has no clue when his wife will be interviewed so that he can return to the United States with his wife.  He has been waiting for 2 years.
 
-### 09/31/2021
+### 09/30/2021
 
 I asked the religious leader in the dream for their name.  The leader said "whoisyou".  I woke up and thought about the name and translated it to a question: "who is you?".  Who am I if I am perfect in my relationship with the Creator?  And who is each person who is perfect in their relationship with the Creator?  Did I visit a space time and appear as an interdimensional being to this religious leader?  I think the people in this dream world were taking LSD.
 
