@@ -11,3 +11,5 @@ series = []
 +++
 
 After many years of trying to find a group to help, I was introduced to Jason Delport who shared an idea to solve climate change problems with the [Convective Heat Engine (CHE)](https://convective-heat-engine.github.io/).
+
+The CHE can transform deserts into a land of abundance.
