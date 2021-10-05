@@ -14,15 +14,19 @@ series = []
 
 [Serious content](/posts/content-creation) should have [version control with historical changes](https://github.com/heroLFG/hugo-herolfg-site/commits/dev/content/posts/government.md).
 
-## What are my goals?
+- What are my goals?
+  - I learn.
+  - I give intent.
+  - I invite feedback.
+  - I give progress.
+  - I give outcomes.
+  - I seek peace.
 
-I learn.  I give intent.  I invite feedback.  I give progress.  I give outcomes. I seek peace.
-
-# What is Truth?
+## What is Truth?
 
 Words are symbols and symbols can attempt to point at the Truth.  The territory is real and the map attempts to point at the territory.
 
-# What is not Truth?
+## What is not Truth?
 
 Words are not Truth when they do not serve our group's goals.  Our group are those who know and share intentions to facilitate cooperation.  I see powerful people who are not in my group and do not speak Truth because they do not share my goals for peace on Earth.
 
@@ -58,15 +62,21 @@ Stubborn people cling to their ways.
 
 ## Christian People
 
-A Christian is a person who attempts to be like Christ.
+A Christian is a person who attempts to be like Christ: a king of kings.
+
+- previous thoughts about [the Christian](/posts/the-christian)
 
 ## Christ
 
-Christ is the person who serves the Creator and becomes part of the church and creates peace in our world.
+Christ is the person who serves the Creator and leads the church and the believers to create peace in our world.
+
+## Believer
+
+Believers follow the Christians and can become Christians but have not accepeted the yoke of responsibility of becoming a true Christian: a king of kings.
 
 ## Church
 
-The church is the group of Christians working with the Holy Spirit.
+The church is the group of Christians and Believers working with the Holy Spirit to create peace in our world.
 
 ## Creator
 
