@@ -49,6 +49,8 @@ Our religion is how we act in the world.  Our actions should align with nature.
 - Review the important notes that are written and improve the writings because we are born ignorant and capable of learning.
 - Do not be too quick to dismiss what has been written as unimportant because the importance may become relevant.
 - Organize what has been written with regard to importance because our memories are limited and we can train the subconscious.
+- Donate to the best candidates in an election.  Vote for them in the primary and the general.  But don't expect them to solve the problems.
+  - If you donate and vote correctly, you will be supporting the candidate who will not win the election because the world is fallen.
 
 ### Questions
 
