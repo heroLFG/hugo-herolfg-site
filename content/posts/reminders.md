@@ -34,7 +34,7 @@ If given the opportunity,
 
 Our religion is how we act in the world.  Our actions should align with nature.
 
-- I practice grounding my attention in the present by giving my attention to my breathe.
+- I practice grounding my attention in the present by giving my attention to my breathing.
 
 {{< youtube rIIk79dMPCE >}}
 
