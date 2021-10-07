@@ -34,7 +34,7 @@ If given the opportunity,
 
 Our religion is how we act in the world.  Our actions should align with nature.
 
-- I act like a [Christian](/posts/truth/christian-people).
+- I act like a [Christian](/posts/truth#christian-people).
 - I act as if the Creator is real.
 - I act as if the Creator is omniscient.
 - I act as if the Creator is omnispresent.
