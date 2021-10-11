@@ -16,7 +16,7 @@ I have created a [Patreon](https://www.patreon.com/HeroLFG) account which allows
 
 I want the conversation to be in an asynchronous form.  When a conversation is not asynchronous there isn’t a good opportunity for people to collect their thoughts before responding.
 
-I want to live in a world where people learn to have better conversations in this new form.  I think about this new form of conversation like I would think about martial arts.  I call this form of art [minerval arts](https://www.reddit.com/r/MinervalArt/).  I can imagine the minerval arts becoming more popular over time so that there is eventually the equivalent of the UFC and the NFL draft.  That is my dream.
+I want to live in a world where people learn to have better conversations in this new form.  I think about this new form of conversation like I would think about martial arts.  I call this form of art minerval arts.  I can imagine the minerval arts becoming more popular over time so that there is eventually the equivalent of the UFC and the NFL draft.  That is my dream.
 
 If you are interested in minerval arts please join my [Discord server](https://discord.gg/YZP89kc).
 
