@@ -76,7 +76,7 @@ Believers follow the Christians and can become Christians but have not accepeted
 
 ## Church
 
-The church is the group of Christians and Believers working with the Holy Spirit to create peace in our world.
+The church is the group of Christians, Muslims, and Believers working with the Holy Spirit and submitting to the will of the Creator to create peace in our world.
 
 ## Creator
 
@@ -85,3 +85,15 @@ The Creator loves all people and aims at peace.  The Creator does not love all b
 ## Holy Spirit
 
 The spirit of cooperation.
+
+## Muslim
+
+A Muslim is a person who practices submitting to the will of the Creator.
+
+## Friend
+
+A friend is a person who wants what is best for you.  A friend is willing to listen and try to understand you.
+
+## Home
+
+A home is a place for children to grow and transform towards the good.
