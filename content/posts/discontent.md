@@ -18,6 +18,10 @@ A [friend](/posts/truth#friend) mentioned feeling a tinge of discontentment.  My
 
 The rest of this post is meant to support the claim that we should practice and perfect the way we express ourselves.
 
+## Video Commentary
+
+{{< youtube KDI6VEz_laY >}}
+
 ## Expressions
 
 I have experienced the pain which results from expressing emotions in the wrong way.  I could list event after event which led to suffering as people failed to act with the [holy spirit](/posts/truth#holy-spirit) because people failed to communicate and express the unholy spirits in the proper way.
