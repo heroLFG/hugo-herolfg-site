@@ -20,7 +20,7 @@ We will attempt our negotiations for the encounter in a public way which is acce
  
 ## Example
  
-[Gavin](https://twitter.com/Hero_LFG) creates a public tweet which mentions [Paul](https://twitter.com/GrimGriz) and contains a link to this blog post.  GrimGriz responds to the tweet suggesting that Gavin defends a popular position in the mainstream like:
+[Gavin](https://twitter.com/Hero_LFG) creates a [public tweet](https://twitter.com/Hero_LFG/status/1474370846621933569) which mentions [GrimGriz](https://twitter.com/GrimGriz) and contains a link to this blog post.  GrimGriz responds to the tweet suggesting that Gavin defends a popular position in the mainstream like:
 - the election of Joe Biden as President of the United States was fair and there was no [cheating in elections](/posts/cheating-in-elections)
  
 Gavin then suggests a format and a venue:
