@@ -1,15 +1,17 @@
 +++
 draft = false
-date = 2021-12-24T06:23:08-05:00
+date = 2022-01-02T06:23:08-05:00
 title = "Minerval Arts"
-description = "Minerval Arts is the mental counterpart to Martial Arts."
+description = "Level Up Loving Enemies"
 slug = "minerval-arts"
 tags = ['education','minerva','minerval','arts','attention']
 categories = ['education','process','blog']
 externalLink = ""
 series = []
 +++
- 
+
+{{< youtube BepzmuqJkb8 >}}
+
 # Introduction
  
 This is an invitation to practice minerval arts with me or anyone you can find who is willing to participate.  Minerval arts is a friendly battle of minds and ideas with an ultimate goal of increasing awareness for the practitioners and observers.  If everyone practiced and appreciated minerval arts we would have our best chance at [peace on Earth](/posts/human-resource-problem) because we would have our best chance at optimally informed decision making.
