@@ -75,6 +75,8 @@ Control theory (control of dynamical systems, Kalman filter)
 
 Theory of value (intrinsic, labor, exchange, monetary, power, utility, subjective)
 
+Legal systems (common law and precedent, statutory law, regulatory law, what about claims of injury being ignored?)
+
 ### thoughts
 
 Passion: Obsessed with knowledge. Obsessed with winning. Obsessed wtih creating.  Obsessed with ordering.  Obsessed with purity.
