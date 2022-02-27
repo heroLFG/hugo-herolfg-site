@@ -2,7 +2,7 @@
 draft = true
 date = 2022-02-26T05:21:08-05:00
 title = "The Engineer"
-description = "The ideal engineer"
+description = "Study of the ideal engineer"
 slug = "the-engineer" 
 tags = ['religion']
 categories = []
@@ -14,20 +14,27 @@ series = []
 
 Experimentation facilitates error correction.
 
-Each worldview (or perspective) has costs and benefits or tradeoffs.  Each individual has a unique perspective which changes with each experience.  And so a specific worldview may be the most beneficial and least harmful for a specific individual at a specific time and place.  But other individuals or even the same individual at a different time and place would find such a worldview too harmful to accept.
-
-This worldview in itself presents its own risk profile and might be too harmful for large numbers of individuals in their current time and place.
-
 ### questions
 
 How can it be utilized for productivity?
 
 Is the question productive?
 
+What am I doing? Practicing perspectvism: cooperation and coeducation
+
+What deserves my attention?  Husband, Father, Engineer
+
 ### people and ideas
+
+Anatol Rapoport and tit-for-tat
+    - won tournament based on Robert Axelrod's Evolution of Cooperation
+    - science for peace (http://scienceforpeace.ca/ - does not appear to uphold personal responsibility)
+        - what about create a better game?
+        - what about tribalism?
 
 Karl Popper and falsifiability.
     - All swans are white.  We can't observe all swans, but observing one black swan would falsify the claim.
+    - All people are sinners.
 
 Alfred Korzybski and general semantics.
     - The map is not the territory.
@@ -37,11 +44,6 @@ Albert Ellis and REBT.
     - Good (Jocko Willink and warrior mindset)
     - Teachings of Don Juan (impecability and warrior mindset)
     - Carol Dweck and growth mindset.
-
-Anatol Rapoport
-    - science for peace (http://scienceforpeace.ca/)
-    - won tournament based on Robert Axelrod's Evolution of Cooperation
-        - tit-for-tat strategy
 
 ### definitions
 
@@ -59,7 +61,7 @@ Psychology is the study of human action. (distributions, elections)
 
 Economics is the study of social interaction. (secrets, lies, ignorance, information, noise)
 
-Cybernetics is the study of communications in relationship to system outputs.
+Cybernetics is the study of communications in relationship to system outputs. (education)
 
 Cybernetics, as a practice, uses observation of outcomes to actions as inputs for further action.
 
@@ -78,6 +80,21 @@ Theory of value (intrinsic, labor, exchange, monetary, power, utility, subjectiv
 Legal systems (common law and precedent, statutory law, regulatory law, what about claims of injury being ignored?)
 
 ### thoughts
+
+Game theory: put agents in different games to see which game is better and answer questions like:
+    - How many tribes?
+        - How many good tribes?
+            - What is a good tribe?
+                - How do I create a good tribe?
+    - Should there be gatekeepers who restrict access?
+        - Game theory shows a preference to punish freeloaders because working agents earn more.
+    - Who should be the gatekeepers who restrict access?
+        - The set of rules could be the primary gatekeeper and there can be a process by which the set of rules change.
+            - The set of rules may be considered "culture" and I think about "honor culture" and Tecumseh.
+                - I think about Maschiach, Madhi, and The Helper (Spirit of Truth / Holy Spirit)
+                    - https://www.biblegateway.com/passage/?search=John+15&version=ERV
+                    - https://www.biblegateway.com/passage/?search=John+15&version=KJV
+            - The process of process improvement: Eli Goldratt and the Theory of Constraints and Critical Chain
 
 Passion: Obsessed with knowledge. Obsessed with winning. Obsessed wtih creating.  Obsessed with ordering.  Obsessed with purity.
 
