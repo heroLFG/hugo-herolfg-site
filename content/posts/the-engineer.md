@@ -12,6 +12,8 @@ series = []
 
 ## notes
 
+My reminders (https://herolfg.com/posts/reminders/) are some of my conclusions about how I should practice acting in the world.  I could go through each word like "cooperate" and ask the question "how" and "when" while considering some of Axelrod's book "The Evolution of Cooperation".
+
 Experimentation facilitates error correction.
 
 ### questions
