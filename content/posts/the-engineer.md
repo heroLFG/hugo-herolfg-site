@@ -26,10 +26,43 @@ What am I doing? Practicing perspectvism: cooperation and coeducation
 
 What deserves my attention?  Husband, Father, Engineer
 
+Why do I publicly talk to strangers? Teach how to Listen, Learn, Love, and Respect
+    - How can I relate with others?
+        - Start by stating intentions.
+        - End by stating highlights in reference to the intentions.
+        - Roles
+            - Speaker: do not speak for too long.
+            - Listener: take notes then reflect.
+            - Reflector: share interpretation to the speaker's satisfaction.
+        - Recognition
+            - Social awareness game: empathy practice; listener focuses on speaker's experiences; avoid acting like the coach;
+            - Self awareness game: identify emotions practice; notice what arises within self;
+        - Regulation
+            - Self management game: be impeccable;
+            - Relationship management game: conflict resolution; error correction;
+        - Sensemaking game:
+            - identify the topic
+            - take turns being speaker, listener, and reflector
+        - Notes:
+            - Bad coaches don't like being coached.
+
+### interview questions
+
+What do you think about reputation and status?
+
+What are you passionate about?
+    - What do you consciously give your attention to?
+    - What unconsciously grips your attention?
+
+What are your game theories and strategies?
+    - What are your values and your hierarchy of values?
+    - What are your moral foundations?
+
 ### people and ideas
 
 Anatol Rapoport and tit-for-tat
     - won tournament based on Robert Axelrod's Evolution of Cooperation
+        Be nice.  Retaliate.  Be forgiving.
     - science for peace (http://scienceforpeace.ca/ - does not appear to uphold personal responsibility)
         - what about create a better game?
         - what about tribalism?
@@ -95,7 +128,6 @@ Game theory: put agents in different games to see which game is better and answe
             - The set of rules may be considered "culture" and I think about "honor culture" and Tecumseh.
                 - I think about Maschiach, Madhi, and The Helper (Spirit of Truth / Holy Spirit)
                     - https://www.biblegateway.com/passage/?search=John+15&version=ERV
-                    - https://www.biblegateway.com/passage/?search=John+15&version=KJV
             - The process of process improvement: Eli Goldratt and the Theory of Constraints and Critical Chain
 
 Passion: Obsessed with knowledge. Obsessed with winning. Obsessed wtih creating.  Obsessed with ordering.  Obsessed with purity.
