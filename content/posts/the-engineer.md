@@ -12,11 +12,17 @@ series = []
 
 ## notes
 
+We are each an elephant and an elephant rider who justifies what the elephant does.  My elephant is an engineer.
+
 My reminders (https://herolfg.com/posts/reminders/) are some of my conclusions about how I should practice acting in the world.  I could go through each word like "cooperate" and ask the question "how" and "when" while considering some of Axelrod's book "The Evolution of Cooperation".
 
 Experimentation facilitates error correction.
 
 ### questions
+
+What are your criticisms?  If you were the master, what would you want to happen or change?
+
+My elephant is an engineer.  What is your elephant?
 
 How can it be utilized for productivity?
 
