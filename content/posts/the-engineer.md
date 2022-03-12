@@ -54,7 +54,7 @@ What am I doing? Practicing perspectivism: cooperation and coeducation
 
 What deserves my attention?  Husband, Father, Engineer
 
-Why do I publicly talk to strangers? Teach how to Listen, Learn, Love, and Respect
+- Why do I publicly talk to strangers? Teach how to Listen, Learn, Love, and Respect
     - How can I relate with others?
         - Start by stating intentions.
         - End by stating highlights in reference to the intentions.
@@ -78,31 +78,31 @@ Why do I publicly talk to strangers? Teach how to Listen, Learn, Love, and Respe
 
 What do you think about reputation and status?
 
-What are you passionate about?
+- What are you passionate about?
     - What do you consciously give your attention to?
     - What unconsciously grips your attention?
 
-What are your game theories and strategies?
+- What are your game theories and strategies?
     - What are your values and your hierarchy of values?
     - What are your moral foundations?
 
 ### people and ideas
 
-Anatol Rapoport and tit-for-tat
+- Anatol Rapoport and tit-for-tat
     - won tournament based on Robert Axelrod's Evolution of Cooperation
         Be nice.  Retaliate.  Be forgiving.
     - science for peace (http://scienceforpeace.ca/ - does not appear to uphold personal responsibility)
         - what about creating a better game?
         - what about tribalism?
 
-Karl Popper and falsifiability.
+- Karl Popper and falsifiability.
     - All swans are white.  We can't observe all swans, but observing one black swan would falsify the claim.
     - All people are sinners.
 
-Alfred Korzybski and general semantics.
+- Alfred Korzybski and general semantics.
     - The map is not the territory.
 
-Albert Ellis and REBT.
+- Albert Ellis and REBT.
     - The A-B-C-D-E-F model against self defeating beliefs.
     - Good (Jocko Willink and warrior mindset)
     - Teachings of Don Juan (impeccability and warrior mindset)
@@ -144,7 +144,7 @@ Legal systems (common law and precedent, statutory law, regulatory law, what abo
 
 ### thoughts
 
-Game theory: put agents in different games to see which game is better and answer questions like:
+- Game theory: put agents in different games to see which game is better and answer questions like:
     - How many tribes?
         - How many good tribes?
             - What is a good tribe?
