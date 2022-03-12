@@ -110,7 +110,7 @@ What do you think about reputation and status?
 
 ### definitions
 
-Perspectivism, as a worldview, sees all knowledge of a subject as being inevitably partial and limited.
+**Perspectivism**, as a worldview, sees all knowledge of a subject as being inevitably partial and limited.
 
 Perspectivism, as a practice, appreciates and attempts to understand different perspectives. (listening)
 
