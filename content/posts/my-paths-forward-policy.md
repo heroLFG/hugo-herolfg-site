@@ -16,7 +16,7 @@ You can see the history of updates for this post by using [github version contro
 
 ### My Policy
 
-I am willing to spend over 1 hour per day on average having public conversations with people on the internet.  You can join my [discord server](https://discord.gg/wTsBWce).  I plan on helping to build a better discussion plugin for this site instead of disqus and recommend against using disqus for now.
+I am willing to spend over 1 hour per day on average having public conversations with people on the internet.  You can join my [discord server](https://discord.gg/wTsBWce).
 
 If you ask me a publicly visible question, I will eventually respond.  I will usually respond within 48 hours.  If I don't respond within 48 hours, do not hesitate to ask the question again and try to mention my username specifically to help get my attention.
 
