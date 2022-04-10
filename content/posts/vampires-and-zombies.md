@@ -34,7 +34,7 @@ We generate too much noise when we feed on people's attention.  When we are atte
 
 ## Use Version Control
 
-Version control puts our past mistakes on display for everyone to see.  And we can give credit to the people who helped us with our error correction if they agree to be given credit publicly.  The righteous people may not care about their status and might have some fun using a pseudonym like "santa impersonator".  But I think it is good for us to seek out the righteous people who practice fighting these spiritual battles.
+[Version control](https://github.com/heroLFG/hugo-herolfg-site/commits/dev/content/posts/vampires-and-zombies.md) puts our past mistakes on display for everyone to see.  And we can give credit to the people who helped us with our error correction if they agree to be given credit publicly.  The righteous people may not care about their status and might have some fun using a pseudonym like "santa impersonator".  But I think it is good for us to seek out the righteous people who practice fighting these spiritual battles.
 
 The monsters do not use version control because doing so would be counterproductive for their goals.  Using version control, revealing mistakes, and giving credit to others would undermine their ability to feed on other people's attention.
 
@@ -72,7 +72,7 @@ People should be able to get our attention.  And when people get our attention w
 
 When we act like monsters we will ignore people unless they can help with our cravings.  The monster will not tell you when you are being ignored or why you are being ignored or how you might stop being ignored in the future.
 
-We should be willing to tell people when we ignore them and why we are ignoring them and how they might stop being ignored in the future.  If we are populare we must be aware of the choices our handlers are making regarding choices about who is being ignored and why they are being ignored and how that person might stop being ignored in the future.
+We should be willing to tell people when we ignore them and why we are ignoring them and how they might stop being ignored in the future.  If we are popular we must be aware of the choices our handlers are making regarding choices about who is being ignored and why they are being ignored and how that person might stop being ignored in the future.
 
 ## Meta Topic
 
