@@ -24,4 +24,4 @@ The harder problem to solve is people problems and people's behaviors which woul
 
 Even after we have the technical knowledge to deploy the autonomous agriculture technology, there will continue to be hunger and malnutrition because of people problems.  Imagine that we somehow develop a kind of 3d printer technology that is able to easily transform any material into any other material: including food.  There will continue to be hunger so long as there continues to be people who wish to control other people by restricting their freedoms.
 
-I am interested in solving the technical problems which could end world hunger.  And I am interested in solving the [people problems which are preventing us from creating that technology](https://herolfg.com/posts/human-resource-problem/).  I am less interested in the imaginary future where people have the choice to feed those in need or to not feed those in need.
+I am interested in solving the technical problems which could end world hunger.  And I am interested in solving the [people problems which are preventing us from creating that technology](https://herolfg.com/posts/human-resource-problem/).

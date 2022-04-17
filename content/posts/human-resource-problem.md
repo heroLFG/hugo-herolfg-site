@@ -10,11 +10,8 @@ externalLink = ""
 series = []
 +++
 
-*Written by Gavin Palmer practicing a relationship with the [Greatest Intentions](/posts/helping-the-greatest-intentions)*
-
-[Serious content](/posts/content-creation) should have [version control with historical changes](https://github.com/heroLFG/hugo-herolfg-site/commits/dev/content/posts/human-resource-problem.md).
-
 # The Human Resource Problem
+
 Humans have the potential to solve many big problems which are not currently being solved. For example, [we could eventually be living in a world where malnutrition and starvation is avoidable](https://herolfg.com/posts/a-world-without-hunger/). The main reason we live in a world where humans suffer from malnutrition is because humans have not figured out how to work together effectively. I have broadly called this general problem of humans not working together effectively "HRP".
 
 Technology can help us solve all of our big problems which are solvable. Technology is empowering. Solving a big problem requires some amount of qualified people working together effectively. But technology can reduce the number of qualified people needed to solve a big problem. And if technology were powerful enough it could eventually solve big problems automatically without need of humans.
@@ -25,19 +22,30 @@ I try to be a person that is willing and able to help with solutions to problems
 
 Good people must put forth regular effort to connect with other good people who are willing to do good work together. I believe it is possible and necessary.
 
-# Learning
+## Learning
 
 ### Taking a Position
+
 *I practice choosing my positions carefully.*
 
 People who choose positions and feel strongly about issues will often disregard and sometimes despise people who disagree with their position.
 
 ### Attention Filtering Process
+
 *I practice giving [my attention](/posts/my-attention) to people who want to learn and teach with me.*
 
 Many people only want to teach.  Some people who ignore me do not want me to ignore them.  Some people want me to ignore individuals who are willing to teach and learn with me.
 
 ### Attention Giving Process
+
 *I practice asking for people's attention.*
 
-Many people assume I should be giving my attention the same way they give their attention.  Many people do not appreciate me calling into question the way in which they give their attention.
+Many people assume I should be giving my attention the same way they give their attention.
+
+*I practice remembering not to condemn people who give their attention in a way that is different than my own.*
+
+#### notes
+
+*Written by Gavin Palmer practicing a relationship with the [Greatest Intentions](/posts/helping-the-greatest-intentions)*
+
+[Serious content](/posts/content-creation) should have [version control with historical changes](https://github.com/heroLFG/hugo-herolfg-site/commits/dev/content/posts/human-resource-problem.md).
