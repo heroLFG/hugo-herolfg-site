@@ -70,7 +70,9 @@ We should provide a mechanism by which others can help us with our error correct
 
 External DADA
 
-We should not give our attention away too easily or else zombies and vampires might do us harm.  The vampires at Twitter and Facebook facilitate viral spreading of content with their user interface.  A monster on the internet can spread dis-ease too easily.  Provide a path for people to gain your attention and make that path increasingly difficult based upon your popularity.  But no matter how difficult it is for someone to gain your attention, be transparent about your [path forward policy](/posts/my-paths-forward-policy).
+We should not give our attention away too easily or else zombies and vampires might do us harm.  The vampires at Twitter and Facebook facilitate viral spreading of content with their user interface.  A monster on the internet can spread dis-ease too easily.
+
+Provide a path for people to gain your attention and make that path increasingly difficult based upon your popularity.  But no matter how difficult it is for someone to gain your attention, be transparent about your [path forward policy](/posts/my-paths-forward-policy).
 
 ### Engagement Process
 
