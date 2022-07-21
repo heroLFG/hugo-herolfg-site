@@ -8,6 +8,7 @@ tags = ['consulting','service','cooperation']
 categories = []
 externalLink = ""
 series = []
+socialshare = true
 +++
 
 # Introduction: Sustainable Social Media Organizations
