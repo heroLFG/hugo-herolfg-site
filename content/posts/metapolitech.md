@@ -52,7 +52,7 @@ Members of the metapolitech platform can donate money to metapolitech.  These fu
 
 The algorithms used by wealthy members in donating to other members need to be open sourced, version controlled, and timestamped as evidence that metapolitech is operating legally.
 
-### Trustworthiness
+### Trustworthiness and Corruption
 
 Knowledge concerning the trustworthiness of members develops over time as problems, solutions, and actions are identified and associated with members.  The metapolitech platform is able to identify the most trustworthy individuals and decisions as recommendations to candidates who use the metapolitech platform.
 
@@ -60,11 +60,9 @@ The trustworthiness of the candidate is related to the person's ability to make 
 
 The most trustworthy candidates will be entirely funded by the metapolitech platform which aims to create a veil of separation between the financiers and the candidates.  As the technology improves and the popularity of the platform grows, the trustworthiness of candidates and the system will improve as well.
 
-### Corruption
+## Conclusion
 
 The best decisions and technology to serve all of the people will continue to emerge and we [invite you to participate](https://forms.gle/RNeQSxfyYbA2M1Eh6).
-
-## Conclusion
 
 ## footnotes
 
