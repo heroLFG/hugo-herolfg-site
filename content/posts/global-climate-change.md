@@ -10,7 +10,7 @@ externalLink = ""
 series = []
 +++
 
-The [Convective Heat Engine (CHE)](https://convective-heat-engine.github.io/) is the primary infrastructure for a sustainable city design which can be used to capture thousands of tons of carbon per year while providing a reliable supply of water, shelter, and electricity for a population of 100,000 people.
+The [Convective Heat Engine (CHE)](https://convective-heat-engine.github.io/) is the primary infrastructure for a sustainable city design which can protect against drought, famine, and climate change.  It can be used to capture thousands of tons of carbon per year while providing a reliable supply of water, shelter, and electricity for a population of 100,000 people.
 
 The latest estimated price of a CHE is $6 billion.  The price tag per ton of carbon being sequestered looks expensive at first glance.  But the CHE is first and foremost a new infrastructure technology for sustainable city designs.  The net negative carbon emissions are merely a byproduct.
 
