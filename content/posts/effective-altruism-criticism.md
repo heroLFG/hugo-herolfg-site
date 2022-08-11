@@ -70,7 +70,7 @@ There are reasons why I don't give out a lot of money and I don't make sacrifice
 
 I recommend EA do more competitions in the future adjusted with process transparency.  I specifically recommend repeating the [competition recently done by xprize](https://www.xprize.org/prizes/elonmusk) because they basically ignored my team's [idea](/posts/global-climate-change) and they are making the kinds of mistakes I am attempting to point out here.
 
-I am recording myself doing this work using OBS.  The judges for this competition could do the same.  Reviews of the recordings could be crowdsourced to help identify important points which help with learning and teaching about ideas, people, organizations, and processes.
+I am [recording myself](https://www.youtube.com/watch?v=ufL5jz2-oKU) doing this work using OBS.  The judges for this competition could do the same.  Reviews of the recordings could be crowdsourced to help identify important points which help with learning and teaching about ideas, people, organizations, and processes.
 
 I will be updating this post with a link to my recording.  By sharing a link to this post I can continue to make updates to this post going into the future and you can see those updates in version control.
 
@@ -79,3 +79,7 @@ I will be updating this post with a link to my recording.  By sharing a link to 
 *Written by Gavin Palmer practicing a relationship with the [Greatest Intentions](/posts/helping-the-greatest-intentions)*
 
 [Serious content](/posts/content-creation) should have [version control with historical changes](https://github.com/heroLFG/hugo-herolfg-site/commits/dev/content/posts/effective-altruism-criticism.md).
+
+## Proof of Work
+
+{{< youtube ufL5jz2-oKU >}}
