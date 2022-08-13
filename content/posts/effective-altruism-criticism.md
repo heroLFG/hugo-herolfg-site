@@ -20,7 +20,7 @@ How good is the judging process for this competition?  Why should I trust the pr
 
 My claim is that transparency technology should be developed and utilized in order to help determine which ideas, people, and organizations can be trusted.  EA is lacking in their use of and advocacy for transparency technology.  I could spend my entire life pointing out transparency technology ideas and I would love to do that for the benefit of the world.  I will list out a few of those ideas now.
 
-Note that I am [recording myself](https://www.youtube.com/watch?v=ufL5jz2-oKU) doing this work using OBS.  The judges for this competition could do the same.  Reviews of the recordings could be crowdsourced to help identify important points which help with learning and teaching about ideas, people, and organizations.  This post is also in [version control with historical changes](https://github.com/heroLFG/hugo-herolfg-site/commits/dev/content/posts/effective-altruism-criticism.md)
+Note that I am [recording myself](/posts/effective-altruism-criticism#proof-of-work) doing this work using OBS.  The judges for this competition could do the same.  Reviews of the recordings could be crowdsourced to help identify important points which help with learning and teaching about ideas, people, and organizations.  This post is also in [version control with historical changes](https://github.com/heroLFG/hugo-herolfg-site/commits/dev/content/posts/effective-altruism-criticism.md)
 
 ### Financial Transparency
  
@@ -66,7 +66,7 @@ When an organization (like EA) implements transparency technology, the best and 
 
 ## Notes
 
-I think the criticisms regarding technology transparency apply to every organization of people.  I was disappointed with [the climate change competition recently done by xprize](https://www.xprize.org/prizes/elonmusk) because they did not investigate the underlying physics behind our team's [idea](/posts/global-climate-change).  We were hoping they would either tell us what was wrong with our physics, or they would help point at a new idea that could save billions of lives.
+I think the criticisms regarding technology transparency apply to every organization of people.  I was disappointed with [the climate change competition recently done by xprize](https://www.xprize.org/prizes/elonmusk) because they did not investigate the underlying physics behind our team's [idea](/posts/global-climate-change).  We were hoping they would either tell us what was wrong with our physics, or they would help point at a new idea that could save billions of lives.  You can see from [their feedback](https://convective-heat-engine.github.io/xprize/) that they did neither.
 
 ## footnotes
 
