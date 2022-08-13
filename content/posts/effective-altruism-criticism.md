@@ -78,3 +78,4 @@ I think the criticisms regarding technology transparency apply to every organiza
 
 {{< youtube ufL5jz2-oKU >}}
 
+{{< youtube tsjaYz-_DZY >}}
