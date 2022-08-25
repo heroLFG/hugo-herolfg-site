@@ -1,6 +1,6 @@
 +++ 
 draft = false
-date = 2022-08-11T04:23:08-05:00
+date = 2022-08-24T04:23:08-05:00
 title = "Effective Altruism Criticisms"
 description = "Trying to Help with Criticism"
 slug = "effective-altruism-criticism" 
@@ -10,9 +10,11 @@ externalLink = ""
 series = []
 +++
  
-I recently learned about the Effective Altruism (EA) organization who [has a competition with incentives for people to help with their error correction](https://forum.effectivealtruism.org/posts/8hvmvrgcxJJ2pYR4X/announcing-a-contest-ea-criticism-and-red-teaming).  The strategy of a competition and the goal of doing error correction is praiseworthy.
+I recently learned about the Effective Altruism (EA) organization who [has a competition with incentives for people to help with their error correction](https://forum.effectivealtruism.org/posts/8hvmvrgcxJJ2pYR4X/announcing-a-contest-ea-criticism-and-red-teaming).  The strategy of a competition and the goal of doing error correction is extremely important in my mind.
  
 My criticisms are generally related to attention and technology because I believe attention is the most valuable resource in the world and technology can help us manage our attention better.
+
+While I think my criticisms are valid, I do not live by my criticisms.  I try to keep some cash on me to give to people who are asking for help.  Engaging with EA has led me to learn about [Trachoma](https://www.who.int/news-room/fact-sheets/detail/trachoma), and I am considering donating money.  I wish I could trust the people I give to.  But that just isn't practical at this point in time.  My criticisms are meant to encourage us to transform into people who can give with confidence because we are able to identify the most trustworthy people.
 
 ## Criticism: EA Transparency Technology
  
@@ -20,7 +22,7 @@ How good is the judging process for this competition?  Why should I trust the pr
 
 My claim is that transparency technology should be developed and utilized in order to help determine which ideas, people, and organizations can be trusted.  EA is lacking in their use of and advocacy for transparency technology.  I could spend my entire life pointing out transparency technology ideas and I would love to do that for the benefit of the world.  I will list out a few of those ideas now.
 
-Note that I am [recording myself](/posts/effective-altruism-criticism#proof-of-work) doing this work using OBS.  The judges for this competition could do the same.  Reviews of the recordings could be crowdsourced to help identify important points which help with learning and teaching about ideas, people, and organizations.  This post is also in [version control with historical changes](https://github.com/heroLFG/hugo-herolfg-site/commits/dev/content/posts/effective-altruism-criticism.md)
+Note that I am [recording myself](/posts/effective-altruism-criticism#proof-of-work) doing this work using [Open Broadcaster Software](https://obsproject.com/).  The judges for this competition could do the same.  Reviews of the recordings could be crowdsourced to help identify important points which help with learning and teaching about ideas, people, and organizations.  This post is also in [version control with historical changes](https://github.com/heroLFG/hugo-herolfg-site/commits/dev/content/posts/effective-altruism-criticism.md)
 
 ### Financial Transparency
  
@@ -39,18 +41,20 @@ All of the processes can be iteratively improved upon with the help of transpare
 How will this competition get judged?  There are judges that have been selected.  What was the process for selecting those judges?  And when each judge participates with their activities regarding the competition, what is their process?  How can we facilitate the process of process improvement itself?  I know these judges have a limited capacity.  What happens as the number of submissions increase?
  
 By explicitly sharing the process for this competition in a transparent way we can facilitate error correction: or the process of process improvement.  Other organizations can implement those processes to accomplish their own error correction.  And what if we were to develop a platform which facilitated such competitions like the one I am participating in with this writing?
- 
+
+### Transparency Technology Conclusion
+
 Perhaps you can begin to see how every aspect of life can be integrated with transparency technology such that teaching and learning is accelerated.  EA is attempting to do these teaching and learning activities in general by pointing out career paths and the best places to send money.  EA is also attempting to do learning activities with this competition.  But all learning and teaching activities are a collection of processes (or ideas) which can be made machine readable and integrated into our machines with the help of software engineers for the benefit of all.
 
 Our knowledge can be integrated into platforms served by our machines and we can do our part in the process by which our knowledge becomes systematized for all.
 
 ## Criticism: Risk of Altruism Itself
 
-Note that criticizing altruism itself is a risky move because the competition is being hosted by altruists who have bias.  I don't need to criticize altruism.  I can work to develop technology for altruists even if I fundamentally disagree with them and their ability to be effective at accomplishing their larger goals.  This is why I like engineering (tool making).  Engineering is agnostic about your morality.  An engineer can help you accomplish your goals even if the engineer has disagreements with the person using their tool.  My hope is that knowledge tools (transparency technology) will help us learn about our mistakes.  We are all making mistakes.
+Criticizing altruism itself is a risky move because the competition is being hosted by altruists who have bias.  I don't need to criticize altruism.  I can work to develop technology for altruists even if I fundamentally disagree with them and their ability to be effective at accomplishing their larger goals.  This is why I like engineering (tool making).  Engineering is agnostic about your morality.  An engineer can help you accomplish your goals even if the engineer has disagreements with the person using their tool.  My hope is that knowledge tools (transparency technology) will help us learn about our mistakes.  We are all making mistakes.
 
-I am not an altruist in the same way that others are.  While doing some research on effective altruism, one point stood out to me in a [TED talk](https://youtu.be/Diuv3XZQXyc?t=327) with a screenshot of the Bill and Melinda Gates Foundation website which included the phrase "all lives have equal value".  The word "value" is subjective because there are many kinds of value.  I agree with the phrase "all lives have equal intrinsic value" but I disagree with the phrase "all lives have equal extrinsic value".  In order to be the most effective altruist, you must distinguish between the different kinds of value.  A failure to recognize that different people have different extrinsic value results in externalities.
+I am not an altruist in the same way that others are.  While doing some research on effective altruism, one point stood out to me in a [TED talk](https://youtu.be/Diuv3XZQXyc?t=327) with a screenshot of the Bill and Melinda Gates Foundation website which included the phrase "all lives have equal value".  The word "value" is subjective because there are many kinds of value.  I agree with the phrase "all lives have equal intrinsic value" but I disagree with the phrase "all lives have equal extrinsic value".  In order to be the most effective altruist, you must distinguish between the different kinds of value.  A failure to recognize that different people have different extrinsic value results in avoidable costs and inefficiencies.
  
-At a [later point in that TED talk](https://youtu.be/Diuv3XZQXyc?t=726), Peter points out that you can provide a blind American with a guide dog or you can cure between 400 to 2000 people of blindness with the same amount of money.  I think that's a very important point in general because you could have a much bigger impact with your donation.  But that impact is unknown.  It could be good or bad in terms of outcomes for our world.  One of the worst case scenarios is that all of the 400 to 2000 people could become child rapists.
+At a [later point in that TED talk](https://youtu.be/Diuv3XZQXyc?t=726), Peter points out that you can provide a blind American with a guide dog or you can cure between 400 to 2000 people of [blindness](https://www.who.int/news-room/fact-sheets/detail/trachoma) with the same amount of money.  I think that's a very important point in general because you could have a much bigger impact with your donation.  But that impact is unknown.  It could be good or bad in terms of outcomes for our world.  One of the unlikely hypothetical worst case scenarios is that all of the 400 to 2000 people could become child rapists.
 
 One of my counterclaims is that there are a minority of people who are more extrinsically valuable than all other people on Earth.  And if we can identify and invest into this minority of people, we will have better outcomes in less time.  This is how I understand the word "effectiveness".
 
