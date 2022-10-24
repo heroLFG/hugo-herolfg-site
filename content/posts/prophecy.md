@@ -16,7 +16,7 @@ In the following video, Paul Stamets received prophecy and is therefore a prophe
 
 {{< youtube 01mKyn_Gwcs >}}
 
-Our most valuable resource is attention if we are trying to do [sensemaking](/posts/how-to-do-sensemaking).  And the most important problem is the [human resource problem](/posts/human-resource-problem).  And we should be creating an environment which is conducive for people to raise up their hand and say "it seems I am a prophet".  And our prophets should be having serious conversations which are treated seriously be the people of the world so that we can have more peace on Earth.
+Our most valuable resource is attention if we are trying to do [sensemaking](/posts/how-to-do-sensemaking).  And the most important problem is the [human resource problem](/posts/human-resource-problem).  And we should be creating an environment which is conducive for people to raise up their hand and say "it seems I am a prophet".  And our prophets should be having serious conversations which are treated seriously by the people of the world so that we can have more peace on Earth.
 
 # Kinds of Prophecy
 
