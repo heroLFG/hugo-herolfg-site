@@ -26,7 +26,7 @@ The purpose of prophecy is to help people aim correctly.  God allows us to ident
 
 The purpose of past information prophecy is to help people find God's messengers on Earth.
 
-Sometimes, the recipient of this prophecy will open their mouth like a fish out of water as they struggle to understand how the prophet could have known such things about their private lives.
+Sometimes, the recipient of this prophet's message will open their mouth like a fish out of water as they struggle to understand how the prophet could have known such things about their private lives.
 
 The risk of this prophecy is that the listeners will accuse others of sharing secrets with the prophet.  They will not immediately consider that they are in the presence of a prophet who has received the secrets from God so that they would be able to identify one of God's messengers: especially in our modern times when belief in prophets has been undermined by so many institutions who have been given too much authority.
 
