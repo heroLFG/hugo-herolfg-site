@@ -69,7 +69,7 @@ All knowing.  In order for it to be omniscient, it is [omnipresent](/posts/remin
 
 ## Important
 
-That which has the capacity to help us accomplish our [goals](/posts/reminders#goals).  When our goal is [humanism](/posts/reminders#humanism), everything can be important because everything can be helpful to someone in some way because [people](/posts/reminders#person) can have an immeasureable number of goals.
+That which has the capacity to help us accomplish our [goals](/posts/reminders#goals).  When our goal is [humanism](/posts/reminders#humanism), everything can be important.
 
 ## Moment
 
