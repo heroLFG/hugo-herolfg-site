@@ -14,6 +14,11 @@ series = []
 
 [Serious content](/posts/content-creation) should have [version control with historical changes](https://github.com/heroLFG/hugo-herolfg-site/commits/dev/content/posts/reminders.md).
 
+We always have the opportunity to,
+
+- love [G-d](/posts/reminders#g-d) (a kind of [shamanism](/posts/reminders#shamanism))
+- love [people](/posts/reminders#person) (a kind of [humanism](/posts/reminders#humanism))
+
 If given the opportunity,
 
 - cooperate
@@ -30,49 +35,81 @@ If given the opportunity,
 - be peaceful
 - be playful
 
-## Religious
+## Goals
 
-Our religion is how we act in the world.  Our actions should align with nature.
+Motivations.
 
-- I practice grounding my attention in the present by giving my attention to my breathing.
+## G-d
 
-{{< youtube rIIk79dMPCE >}}
+The [omniscient](/posts/reminders#omniscient) entity.  If there were more than one, then they would be the same thing.  Therefore, it can be called "the One".  Because it created [people](/posts/reminders#person) and is within [people](/posts/reminders#person), we know it is interested in [people](/posts/reminders#person) and people can have a relationship with it.
 
-- I act like a [Christian](/posts/truth#christian-people).
-- I act as if the Creator is real.
-- I act as if the Creator is omniscient.
-- I act as if the Creator is omnispresent.
-- I act as if the Creator is inviting.
-  - this is not the Creator's world to take.
-    - I act as if we choose to invite the Creator into this world.
-  - this is not the Creator's body to take.
-    - I act as if we choose to invite the Creator into our life.
+## Shamanism
 
-- The newborn should be given to the parent so that the natural parenting instinct is engaged.
-- Quickly write down what is important because our memories are limited.
-- Review the important notes that are written and improve the writings because we are born ignorant and capable of learning.
-- Do not be too quick to dismiss what has been written as unimportant because the importance may become relevant.
-- Organize what has been written with regard to importance because our memories are limited and we can train the subconscious.
+See [humanism](/posts/reminders#humanism).
 
-### political action is least important
+## Humanism
 
-- Donate to the best candidates in an election.  Vote for them in the primary and the general.  But don't expect them to solve the problems.
-  - If you donate and vote correctly, you will be supporting the candidate who will not win the election because the world is fallen.
+To love all [people](/posts/reminders#person) and treat all people as [sacred](/posts/reminders#important).
 
-### Questions
+The number of [experiences](/posts/reminders#experience) [G-d](/posts/reminders#g-d) gives all people is large.  If [G-d](/posts/reminders#g-d) can use all of these [experiences](/posts/reminders#experience) to our benefit, then every [moment](/posts/reminders#moment) is [sacred](/posts/reminders#important).
 
-- What happens when people have wrong views or beliefs?
-  - Do you ever worry that your beliefs are wrong?
+People who say "if everything is sacred, nothing is sacred" are being ignorant of [G-d](/posts/reminders#g-d).  People who treat one book or person as being more important than all other books or people are being ignorant of [G-d](/posts/reminders#g-d).
 
-- What is the goal of the Creator?
-  - Does the Creator want peace on Earth?
+Practically speaking, people are not [G-d](/posts/reminders#g-d) and people are unable to fully grasp [G-d](/posts/reminders#g-d).  It is perfectly understandable, and therefore forgiveable, why a person is being ignornat of [G-d](/posts/reminders#g-d).  It is also perfectly understandable, and therefore forgiveable, why even the concept of [G-d](/posts/reminders#g-d) might be absent from a person's attention.
 
-- How does the Creator accomplish the goal?
-  - What is the relationship between the Creator and us?
+However, it is possible for a person to practice seeking to know [G-d](/posts/reminders#g-d).  And if a person is unable to even maintain the concept of [G-d](/posts/reminders#g-d) within the attention, [G-d](/posts/reminders#g-d) is assuredly being ignored by that person.  This is part of being a person.  All people have ignored [G-d](/posts/reminders#g-d), and by doing so caused much pain and suffering to ourselves and others.
 
-- How do you feel about judging people?
-  - Do you judge the person's willingness and ability to align with the Creator's goals?
-    - Do you care about competence hierarchies?
+## Omnipresent
+
+Everywhere and everywhen.
+
+## Omniscient
+
+All knowing.  In order for it to be omniscient, it is [omnipresent](/posts/reminders#omnipresent).
+
+## Important
+
+That which has the capacity to help us accomplish our [goals](/posts/reminders#goals).  When our goal is [humanism](/posts/reminders#humanism), everything can be important because everything can be helpful to someone in some way because [people](/posts/reminders#person) can have an immeasureable number of goals.
+
+## Moment
+
+A unit of time and space.  A part of an [experience](/posts/reminders#experience).
+
+## Experience
+
+A collection of [moments](/posts/reminders#moment).
+
+## Person
+
+Character.  A person is a totality of [experiences](/posts/reminders#experience) and [goals](/posts/reminders#goals).
+
+## Confusion
+
+When people use language in unfamiliar ways because people have different values.  Only when we learn people's values can we understand their language.  Sometimes we must understand the meaning behind similar words based on the person's values.  Sometimes we must learn new words.
+
+## Judgment
+
+Belief.  Assumption.  Axiom.  Maxim.  Conclusion.  These words are related to a person's willingness and ability to transform perception of a person and therefore transformation of their own [person](/posts/reminders#person).
+
+## Prejudice
+
+Premature [judgment](/posts/reminders#judgment).
+
+## Bias
+
+[Prejudice](/posts/reminders#prejudice) in favor of or against.
+
+## Ad Hominem
+
+An argument about a person's character.  When we aim to love people, this kind of argument is the most powerful and important kind of argument.
+
+## Straw Man
+
+When we fail to understand the other person and believe that misunderstanding.  When we aim to love people, this is a terrible mistake.  This is related to the teachings against bearing false witness.
+
+## Steel Man
+
+When we fully understand the other person and believe that understanding.  This is among the highest forms of expressing love towards a person.  This is how trust can be properly distributed.
 
 ## Cooperation
 
@@ -298,3 +335,50 @@ Being a father and husband is sacred to me.
 > Now as Jesus was getting near to Jericho, a blind man was sitting beside the road begging.  Because he heard a crowd passing by, he began to inquire what was going on.  They reported to him: "Jesus the Nazarene is passing by!" At that he cried out: "Jesus, Son of David, have mercy on me!"  And those who were in front began rebuking him, telling him to keep quiet, but all the more he kept shouting: "Son of David, have mercy on me!"  Then Jesus stopped and commanded that the man be brought to him.  After he came near, Jesus asked him: "What do you want me to do for you?"  He said: "Lord, let me recover my sight."  So Jesus said to him: "Recover your sight; your faith has made you well."  And instantly he recovered his sight, and he began to follow him, glorifying God.  Also, at seeing it, all the people gave praise to God.
  
 I remember my Pawpaw asked if I wanted my warts to go away.  I said yes.  He asked for my hand.  He held my hand, closed his eyes, turned his head upward, said some strange words, brought his head down, opened his eyes, and told me to forget about the the warts and about what happened that day.  I believed him.  And I did what he said.  Many weeks or months later I noticed that my warts were gone.  I told my Pawpaw that they went away and he didn't remember praying my warts away.  I am reminded of placebo and nocebo effects.
+
+### political action is least important
+
+- Donate to the best candidates in an election.  Vote for them in the primary and the general.  But don't expect them to solve the problems.
+  - If you donate and vote correctly, you will be supporting the candidate who will not win the election because the world is fallen.
+
+### Questions
+
+- What happens when people have wrong views or beliefs?
+  - Do you ever worry that your beliefs are wrong?
+
+- What is the goal of the Creator?
+  - Does the Creator want peace on Earth?
+
+- How does the Creator accomplish the goal?
+  - What is the relationship between the Creator and us?
+
+- How do you feel about judging people?
+  - Do you judge the person's willingness and ability to align with the Creator's goals?
+    - Do you care about competence hierarchies?
+
+### Notes
+
+Our religion is how we act in the world.  Our actions should align with nature.
+
+- I practice grounding my attention in the present by giving my attention to my breathing.
+
+{{< youtube rIIk79dMPCE >}}
+
+- I act like a [Christian](/posts/truth#christian-people).
+- I act as if [the Creator](/posts/reminders#g-d) is real.
+- I act as if [the Creator](/posts/reminders#g-d) is inviting.
+  - I act as if we choose to invite [the Creator](/posts/reminders#g-d) into this world.
+
+- The newborn should be given to the parent so that the natural parenting instinct is engaged.
+
+and we can train the subconscious.
+- Quickly write down what is important because our memories are limited.
+- Review the important notes that are written and improve the writings because we are born ignorant and capable of learning.
+- Do not be too quick to dismiss what has been written as unimportant because the importance 
+https://youtu.be/QeIEFKYE-34
+may become relevant.
+- Organize what has been written with regard to importance because our memories are limited and we can train the subconscious.
+
+### My Religion
+
+{{< youtube QeIEFKYE-34 >}}

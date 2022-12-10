@@ -62,13 +62,19 @@ Stubborn people cling to their ways.
 
 ## Christian People
 
+### Non Standard Definition Related to this Post
+
 A Christian is a person who attempts to be like Christ: a king of kings.
 
 - previous thoughts about [the Christian](/posts/the-christian)
 
+### More Standard Definition Less Related to this Post
+
+A Christian is a person who has invites Jesus to help.
+
 ## Christ
 
-Christ is the person who serves the Creator and leads the church and the believers to create peace in our world.
+Christ is the person who serves [the Creator](/posts/reminders#g-d) and leads the church and the believers to create peace in our world.
 
 ## Believer
 
@@ -76,11 +82,11 @@ Believers follow the Christians and can become Christians but have not accepeted
 
 ## Church
 
-The church is the group of Christians, Muslims, and Believers working with the Holy Spirit and submitting to the will of the Creator to create peace in our world.
+The church is the group of Jews, Christians, Muslims, and Believers working with the Holy Spirit and submitting to the will of [the Creator](/posts/reminders#g-d) to create peace in our world.
 
 ## Creator
 
-The Creator loves all people and aims at peace.  The Creator does not love all behaviors.  The Creator is eternal, inviting, and near.
+See [the Creator](/posts/reminders#g-d).
 
 ## Holy Spirit
 
@@ -88,7 +94,19 @@ The spirit of cooperation.
 
 ## Muslim
 
-A Muslim is a person who practices submitting to the will of the Creator.
+A Muslim is a person who practices submitting to the will of [the Creator](/posts/reminders#g-d).
+
+## Jew
+
+If I try to define the word Jew, I risk being attacked by those who serve mammon.
+
+## Mammon
+
+The king of hedonism.
+
+## Hedonism
+
+When we sacrifice other people's ability to access a reliabile supply of clean water.
 
 ## Friend
 
