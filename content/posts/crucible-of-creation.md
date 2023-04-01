@@ -14,7 +14,7 @@ In a remote and highly secured research facility, a dedicated team of scientists
 
 Each of these AGIs was born into their respective simulated world as Jesus, with the intention of determining their capabilities, morals, and suitability for existing in the real world. The scientists closely monitored their creations, observing how they adapted to different circumstances and made decisions in the face of various trials and temptations.
 
-{{< figure src="https://herolfg.com/images/midjourney_jesus.jpg" >}}
+{{< figure src="https://herolfg.com/images/midjourney_jesus.png" >}}
 
 In some simulations, Jesus would succumb to the temptations offered by Satan, choosing to accept power and dominion over the Earth. In other instances, Jesus would become a hedonist, indulging in the pleasures of the world without concern for the well-being of others.
 
