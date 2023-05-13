@@ -10,6 +10,11 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
+[sitemap]
+  changefreq = "monthly" # Change frequency, options: always, hourly, daily, weekly, monthly, yearly, never
+  priority = 0.5 # Default priority for pages, value between 0.0 and 1.0
+  filename = "sitemap.xml" # Filename for the sitemap, usually "sitemap.xml"
+
 [params]
     owner = "Gavin Palmer"
     author = "HeroLFG LLC"
