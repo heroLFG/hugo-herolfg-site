@@ -1,47 +1,49 @@
 {{ define "title" }}
-  {{ .Title }} · {{ .Site.Title }}
+{{ .Title }} · {{ .Site.Title }}
 {{ end }}
 {{ define "content" }}
-  <section class="container post">
-    <article>
-      <header>
-        <div class="post-title">
-          <h1 class="title">{{ .Title }}</h1>
-        </div>
-        <div class="post-meta">
-          <div class="date">
-            <span class="posted-on">
-              <i class="fas fa-calendar"></i>
-              <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
-                {{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}
-              </time>
-            </span>
-            <span class="reading-time">
-              <i class="fas fa-clock"></i>
-              {{ i18n "reading_time" .ReadingTime }}
-            </span>
-          </div>
-          {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
-          {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
-        </div>
-      </header>
-
-      <div>
-        {{ .Content }}
+<section class="container post">
+  <article>
+    <header>
+      <div class="post-title">
+        <h1 class="title">{{ .Title }}</h1>
       </div>
+      <div class="post-meta">
+        <div class="date">
+          <span class="posted-on">
+            <i class="fas fa-calendar"></i>
+            <time datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'>
+              {{ .Date.Format (.Site.Params.dateFormat | default "January 2, 2006" ) }}
+            </time>
+          </span>
+          <span class="reading-time">
+            <i class="fas fa-clock"></i>
+            {{ i18n "reading_time" .ReadingTime }}
+          </span>
+        </div>
+        {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
+        {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
+      </div>
+    </header>
 
-      <div><em>Disclaimer prior to 2023-03-25: <a href="/posts/my-mind">being neurodivergent</a>, I sometimes fail to communicate my thoughts clearly.</em></div>
-      <div><em>Disclaimer beginning 2023-03-25: posts are being generated with the help of GPT.</em></div>
+    <div>
+      {{ .Content }}
+    </div>
 
-      <footer>
-        {{ partial "socialshare.html" . }}
-        {{ partial "posts/series.html" . }}
-        {{ partial "posts/disqus.html" . }}
-        {{ partial "posts/commento.html" . }}
-        {{ partial "posts/utteranc.html" . }}
-      </footer>
-    </article>
+    <div><em>Disclaimer prior to 2023-03-25: <a href="/posts/my-mind">being neurodivergent</a>, I sometimes fail to
+        communicate my thoughts clearly.</em></div>
+    <div><em>Disclaimer beginning 2023-03-25: posts are being generated with the help of GPT.</em></div>
+    <div><em>Disclaimer beginning 2023-10-12: I decided to practice making Jesus my king.</em></div>
 
-    {{ partial "posts/math.html" . }}
-  </section>
+    <footer>
+      {{ partial "socialshare.html" . }}
+      {{ partial "posts/series.html" . }}
+      {{ partial "posts/disqus.html" . }}
+      {{ partial "posts/commento.html" . }}
+      {{ partial "posts/utteranc.html" . }}
+    </footer>
+  </article>
+
+  {{ partial "posts/math.html" . }}
+</section>
 {{ end }}
